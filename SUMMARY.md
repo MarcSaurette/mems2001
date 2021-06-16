@@ -9,4 +9,6 @@
   * [Learning Outcomes](syllabus/what-is-a-syllabus/learning-outcomes.md)
   * [Communication](syllabus/what-is-a-syllabus/communication/README.md)
     * [Digital Classroom](syllabus/what-is-a-syllabus/communication/digital-classroom.md)
+* [Plague Learning](syllabus/plague-learning/README.md)
+  * [On Apathy and Historical Thinking](syllabus/plague-learning/on-apathy-and-historical-thinking.md)
 
