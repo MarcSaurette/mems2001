@@ -1,6 +1,6 @@
 # Learning Outcomes
 
-## What am I going to learn? <a id="what-am-i-going-to-learn"></a>
+## What are you going to learn? <a id="what-am-i-going-to-learn"></a>
 
 I want you to learn how to _read_, how to _write_, how to _research_ and most importantly how to _think_ like a historian/ medievalist. With a focus on the medieval world, this course will generally answer the questions, "What are the Middle Ages?", "Where does it take place" and "How do I learn more about it"? We will start from where you are all. Some of you may have a passionate interest in the time period and have read alot about it. Others might know about it from travelling, reading fiction, watching films or gaming \(tabletop or digital\) and have a strong passion for it. And even others of you might take this course without any background because it fits your schedule...
 
