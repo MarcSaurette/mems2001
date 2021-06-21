@@ -23,4 +23,5 @@
 
 * [Schedule](modules/schedule.md)
 * [Myths of the Middle Ages](modules/myths-of-the-middle-ages.md)
+* [Fundamentals](modules/fundamentals.md)
 
