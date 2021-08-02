@@ -16,6 +16,7 @@
     * [\(really\) Short Guide to MS Teams](syllabus/digital-tools/ms-teams/really-short-guide-to-ms-teams.md)
     * [Streaming Lectures](syllabus/digital-tools/ms-teams/streaming-lectures.md)
   * [Perusall](syllabus/digital-tools/perusall.md)
+  * [CuPortfolio](syllabus/digital-tools/culearn.md)
 * [Plague Learning](syllabus/plague-learning/README.md)
   * [On Apathy and Historical Thinking](syllabus/plague-learning/on-apathy-and-historical-thinking.md)
 
