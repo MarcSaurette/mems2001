@@ -17,7 +17,7 @@
     * [Streaming Lectures](syllabus/digital-tools/ms-teams/streaming-lectures.md)
   * [Perusall](syllabus/digital-tools/perusall.md)
   * [CuPortfolio](syllabus/digital-tools/culearn/README.md)
-    * [cuPortfolio](syllabus/digital-tools/culearn/untitled.md)
+    * [Quick Guide to cuPortfolio](syllabus/digital-tools/culearn/untitled.md)
 * [Plague Learning](syllabus/plague-learning/README.md)
   * [On Apathy and Historical Thinking](syllabus/plague-learning/on-apathy-and-historical-thinking.md)
 

@@ -1,4 +1,4 @@
-# cuPortfolio
+# Quick Guide to cuPortfolio
 
 ## Here is a rough guide to getting started with cuPortfolio:
 
