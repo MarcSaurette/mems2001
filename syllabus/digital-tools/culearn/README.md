@@ -4,17 +4,5 @@ In MEMS2001, students will be asked to create a digital portfolio related to top
 
 Instruction and on-going support in using cuPortfolio will be provided initially by Dr. Saurette. Additional support is available from the Education and Development Centre. For more on cuPortfolio, see [http://carleton.ca/cuportfoliosupport/](http://carleton.ca/cuportfoliosupport/)​
 
-For instructions on how to create a page and add content, on cuPortfolio:
-
-* a future cuPortfolio page once ITS have created my class
-
-For instructions on how to share a page on cuPortfolio:
-
-* a future cuPortfolio page once ITS have created my class
-
-Please remember to share your page to MEMS2001A Fall 2021 as well. 
-
-​
-
-​
+For a quick guide to getting started, take a look at the next page \(click below\). 
 
