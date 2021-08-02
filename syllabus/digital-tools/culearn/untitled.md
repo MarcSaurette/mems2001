@@ -32,7 +32,9 @@ When you login it will look something like this. Might be different if on a phon
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-MExBl9jFZU1by_kBkwg%2F-MExGfabHhVKiCKmv9OY%2FScreen%20Shot%202020-08-17%20at%2012.20.52%20PM.png?alt=media&token=c9074598-a705-4f78-bc73-f7da48492e3f)
 
+{% hint style="info" %}
 Superduper important to choose "Collection".
+{% endhint %}
 
 7. You will be prompted to rename it. Make sure you rename it something like "Your Name's Portfolio...".
 
