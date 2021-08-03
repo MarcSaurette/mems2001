@@ -14,7 +14,7 @@ I did my graduate work at the University of Toronto –Canada's \(and arguably N
 
 You can get in contact with me:
 
-* \(before class begins\) by email: marc.saurette@carleton.ca
+* \(before class begins\) by email: **marc.saurette@carleton.ca**
 * \(after class starts\) via Teams direct messages
 * I'll have regular office hours scheduled on Teams for me to meet one-on-one with students. 
 

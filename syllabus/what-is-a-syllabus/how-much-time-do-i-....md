@@ -16,9 +16,7 @@ In university, we consider students as largely independent learners. We thus ima
 
 Keep in mind this is time averaged over the term. Some weeks you may spend less time reading for class, and more time writing an assignment. Depending on how well you plan ahead, you might be working much more than 2-4 hours some weeks on an assignment \(i.e. if you're not working steadily over the course of the term, you will have some very long work weeks\).
 
-You might find that you really get into the game play and might spend more than 12 hours a week, reading, strategizing, working your networks and building conspiracies. You need therefore to step away from the class to make sure you are working enough on your other courses!
-
-I think we should propose a general rule of etiquette of avoiding messaging other students between 10pm and 9am \(so that we can all take a break\).
+I think we should propose a general rule of etiquette of avoiding messaging other students between 9pm and 9am \(so that we can all take a break\).
 
 ## I might also need to spend additional time on ... <a id="i-might-also-need-to-spend-additional-time-on"></a>
 

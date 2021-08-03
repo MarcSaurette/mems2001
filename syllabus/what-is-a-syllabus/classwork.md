@@ -2,13 +2,11 @@
 
 {% tabs %}
 {% tab title="Reading" %}
-
-
 The bulk of your work this term will be reading. You need to read, both the learn how medievalists write, but also to practice your ability to read carefully, closely and critically.
 
-I am trying something new this year. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via Perusall.  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. 
+I am trying something new this year. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via [Perusall](../digital-tools/perusall/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. 
 
-You will not need to purchase any textbooks for this class. 
+You will not need to purchase any textbook for this class. 
 
 ### What is Social Annotation?
 
@@ -28,19 +26,50 @@ We are going to experiment with the QQTPA method for class.  When you are readin
 {% endtab %}
 
 {% tab title="Reflection" %}
+Near the outset of term, your goal is to reflect on what idea of the Middle Ages is already implanted in your head. Even for those of you who might think that "I don't know anything about the Middle Ages", you still have a clear sense of the time period \(rightly or wrongly\) transmitted by elementary school, Disney movies or playing Dark Souls \(or some other videogame\). 
 
+For this assignment, you are asked to reflect on what knowledge you bring to the study of the Middle Ages. From a young age, we all are exposed to representations of the Middle Ages both in popular culture and in school. At this stage, some of you have more formal academic training in the Middle Ages, while others come to the field from another path \(video games anyone?\). Neither is better or worse preparation – what is key, however, is to be open about the dominant tropes of the Middle Ages that you believe/ think to be definitive of the period. Questions to guide your reflection might include:
+
+* What does “Medieval” or “Middle Ages” mean to you?
+* What do you know about the Middle Ages?
+* What experience have you had with the Middle Ages?
+* What do you hope to learn by the conclusion of this class?
+* Where do you get your Middle Ages from?
+
+The reflection should be written in suitably formal academic/ journalistic style, roughly 500 words in length. Please ensure spelling mistakes, syntactical errors, capitalization problems are eliminated before you submit officially \(You could ask a fellow student to give your reflection a quick read!\).
+
+If you make references to books, works of art and other media, they should be properly referenced in Chicago style at the bottom of your page. If you make reference to the commodified Middle Ages \(toys, products, advertisements\), please offer links or embed videos in your page \(part of your reflection could simply be a sidebar list of links\)
+
+A guide to proper Chicago style can be found here: [http://www.chicagomanualofstyle.org.proxy.library.carleton.ca/home.html](https://www.chicagomanualofstyle.org.proxy.library.carleton.ca/home.html)\). Please note that cuPortfolio does not have a “footnote” button, but if you cut and paste from Word \(etc.\) footnote formatting is retained.
 {% endtab %}
 
 {% tab title="Research" %}
 
 {% endtab %}
 
-{% tab title="Writing" %}
-
+{% tab title="Reviewing" %}
+You will offer at least three of your fellow students helpful comments on and critiques of their developing work, in order to help them produce a polished final draft of their research. 
 {% endtab %}
 
-{% tab title="Reviewing" %}
+{% tab title="Profile" %}
+Your first piece of work for the class will be a profile on cuPortfolio introducing yourself \(and mostly getting used to the platform\). On cuPortfolio, you will write up something a bit more lengthy \(with pictures and links!\). Follow the instructions [here](../digital-tools/culearn/untitled.md) on how to get started on cuPortfolio. 
 
+Since we won't be meeting in person, I want all the students to put together a profile page which gives your fellow students a sense of who you are, why you took the course, how many cute animals you have, your social media id's \(if you want\) ... [Here](https://cuportfolio.carleton.ca/view/view.php?t=R0JhOVq2vQu3xfWjiceY) is a simple profile page I've put together for myself. 
+
+I want you to:
+
+1. Select a layout that works and doesn't look super ugly after you have added content. My sense of aesthetics will be pained if you retain the three column layout that cuPorfolio defaults to, but then cram your text only into one column. Beware my wrath.
+2. Include a picture of yourself. And figure out how to add a caption to it. 
+3. Write up 500 words or so about yourself. It can be formal, it can be casual. It must use proper syntax. 
+4. If you exist online elsewhere, you can draw attention to such things \(if you want\) by linking to your Etsy business, your Soundcloud \(whatever that is\) etc. You can integrate your twitter feed or your youtube channel.
+
+The point of the assignment is that your classmates will get to know you and have a better sense of who you are. I ask you to include a photo of yourself \(not just your adorable cats and ferrets\) so that your classmates can learn to associate your name with a face. These "Student Profile" pages can only be viewed by the class not people outside \(unless you actively choose to make it more widely visible\).
+{% endtab %}
+
+{% tab title="Self-Assessment" %}
+At the end of the first and second terms, students will be asked to write a critical self-evaluation \(_critical_ in the sense of "using logic and evidence to argue"\), describing their learning and how their work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
+
+I will post a form on Teams for students to submit, but you may submit a long form written answer \(an argument rather than answers to specific questions\) if you prefer as a word file...
 {% endtab %}
 {% endtabs %}
 
