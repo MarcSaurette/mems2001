@@ -4,7 +4,7 @@
 
 Almost all communication should happen via the Teams platform. We can message privately, post general messages to channels, we can meet in an audio or videoconference as a whole or in small groups/ one-on-one.
 
-Before class starts, you can get in contact by email: marc.saurette@carleton.ca
+Before class starts, you can get in contact by email: **marc.saurette@carleton.ca**
 
 ## The long answer <a id="the-long-answer"></a>
 
