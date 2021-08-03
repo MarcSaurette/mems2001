@@ -12,7 +12,7 @@
   * [Communication](syllabus/what-is-a-syllabus/communication/README.md)
     * [Digital Classroom](syllabus/what-is-a-syllabus/communication/digital-classroom.md)
   * [Classwork](syllabus/what-is-a-syllabus/classwork.md)
-  * [Work Timeline](syllabus/what-is-a-syllabus/work-timeline.md)
+  * [Key Dates](syllabus/what-is-a-syllabus/work-timeline.md)
   * [Assessment](syllabus/what-is-a-syllabus/assessment.md)
 * [Digital Tools](syllabus/digital-tools/README.md)
   * [MS Teams](syllabus/digital-tools/ms-teams/README.md)
