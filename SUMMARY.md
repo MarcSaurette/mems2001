@@ -5,10 +5,11 @@
 
 ## Syllabus
 
-* [The Point of a Syllabus](syllabus/what-is-a-syllabus/README.md)
+* [a Syllabus](syllabus/what-is-a-syllabus/README.md)
   * [Your Professor, Marc](syllabus/what-is-a-syllabus/your-professor.md)
   * [Learning Outcomes](syllabus/what-is-a-syllabus/learning-outcomes.md)
   * [How much time do I ...](syllabus/what-is-a-syllabus/how-much-time-do-i-....md)
+  * [Classwork](syllabus/what-is-a-syllabus/classwork.md)
   * [Communication](syllabus/what-is-a-syllabus/communication/README.md)
     * [Digital Classroom](syllabus/what-is-a-syllabus/communication/digital-classroom.md)
 * [Digital Tools](syllabus/digital-tools/README.md)
@@ -24,7 +25,8 @@
 
 ## Modules
 
-* [Schedule](modules/schedule.md)
+* [Schedule](modules/schedule/README.md)
+  * [Detailed Schedule](modules/schedule/detailed-schedule.md)
 * [Myths of the Middle Ages](modules/myths-of-the-middle-ages.md)
 * [Scholarship](modules/scholarship.md)
 * [Research Fundamentals](modules/fundamentals.md)
