@@ -4,7 +4,7 @@
 
 Almost all communication should happen via the Teams platform. We can message privately, post general messages to channels, we can meet in an audio or videoconference as a whole or in small groups/ one-on-one.
 
-You can get in contact with me:
+Before class starts, you can get in contact by email: marc.saurette@carleton.ca
 
 ## The long answer <a id="the-long-answer"></a>
 
@@ -19,7 +19,7 @@ Information about the process to request an extension/accommodation for reasons 
 ### **Basic Course Information**  <a id="basic-course-information"></a>
 
 1. The static website on gitbook.com will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc.
-2. Our "The Making of the Middle Ages" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course. Note: you must be logged in to your Carleton cmail account to access Teams.
+2. Our "Discovering the Medieval Past" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course. Note: you must be logged in to your Carleton cmail account to access Teams.
 
 ·Since we will often announce and reiterate a variety of important logistical information live in class \(not all of which will be necessarily announced elsewhere\), please attend class consistently, and check with colleagues about whether you missed any logistical information if you were not able to attend a class.
 

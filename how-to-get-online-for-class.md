@@ -2,7 +2,7 @@
 
 Our classes are scheduled take place on Mondays and Wednesdays from 11h30 until 13h00. We are expecting that the class will be fully synchronous \(i.e. we meet online during scheduled class times\). 
 
- It is key that you get [Teams](syllabus/digital-tools/ms-teams/) and [Perusall](syllabus/digital-tools/perusall.md) working as soon as possible. Perusall is easy to get working. Teams, if you haven't used it before at Carleton, may not be. So please try to login before class starts in September.
+ It is key that you get [Teams](syllabus/digital-tools/ms-teams/) and [Perusall](syllabus/digital-tools/perusall/) working as soon as possible. Perusall is easy to get working. Teams, if you haven't used it before at Carleton, may not be. So please try to login before class starts in September.
 
 We will meet on Teams for our first class at 11h30 on **Wednesday, September 8th, 2021**. In preparation for using Teams for videoconferencing, please follow the steps outlined below.
 
