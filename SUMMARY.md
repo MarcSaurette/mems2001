@@ -18,6 +18,7 @@
     * [Streaming Lectures](syllabus/digital-tools/ms-teams/streaming-lectures.md)
   * [Perusall](syllabus/digital-tools/perusall/README.md)
     * [Social Annotation](syllabus/digital-tools/perusall/untitled.md)
+  * [Hypothes.is](syllabus/digital-tools/hypothes.is.md)
   * [CuPortfolio](syllabus/digital-tools/culearn/README.md)
     * [Quick Guide to cuPortfolio](syllabus/digital-tools/culearn/untitled.md)
 * [Plague Learning](syllabus/plague-learning/README.md)

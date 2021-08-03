@@ -3,26 +3,10 @@
 {% tabs %}
 {% tab title="Reading" %}
 
-{% endtab %}
 
-{% tab title="Reflection" %}
-
-{% endtab %}
-
-{% tab title="Research" %}
-
-{% endtab %}
-
-{% tab title="Writing" %}
-
-{% endtab %}
-
-{% tab title="Reviewing" %}
 The bulk of your work this term will be reading. You need to read, both the learn how medievalists write, but also to practice your ability to read carefully, closely and critically.
 
-
-
-I am trying something new this year. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via [Perusall]().  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. We will also being using another annotation tool, [Hypothes.is]() to annotate webpages and other online resources. 
+I am trying something new this year. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via Perusall.  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. 
 
 You will not need to purchase any textbooks for this class. 
 
@@ -41,6 +25,22 @@ We are going to experiment with the QQTPA method for class.  When you are readin
 
 **an Answer**: As your reading the textbook and reader on Perusall, read through other students' questions and try to answer one. 
 {% endhint %}
+{% endtab %}
+
+{% tab title="Reflection" %}
+
+{% endtab %}
+
+{% tab title="Research" %}
+
+{% endtab %}
+
+{% tab title="Writing" %}
+
+{% endtab %}
+
+{% tab title="Reviewing" %}
+
 {% endtab %}
 {% endtabs %}
 
