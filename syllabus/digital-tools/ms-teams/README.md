@@ -4,18 +4,23 @@
 
 _**Teams**_ is one of the many "enterprise tools" you will be using \(i.e. digital tools/ apps that businesses use to manage projects and keep in communication\). We're adapting it to the educational environment to take advantage the relative ease of communication that it provides. Ideally, it will be a digital hub connecting different parts of the course. I hope that Teams makes it easy for you to get in contact with the professors, teaching assistant\(s\) and your fellow students. It also works on computers, mobile devices and most browsers so you can keep in contact with the class through the form of connection you want \(mobile app, desktop software, email, texts...\).
 
+{% hint style="info" %}
 Our teams code is : **2svyacg**
+{% endhint %}
 
 ## Installing Microsoft Teams on a Desktop <a id="installing-microsoft-teams-on-a-desktop"></a>
 
-You can also install no software at all and just use Teams through a browser – I really don't recommend this. It is not a great option since you have to sign in again and again and again forever. Generally the platform via browsers allows you to do less with more hassle. Also, as of writing this \(end of 2020\) if you are a Mac/ iPhone user, Teams does not work with Safari \(e.g. at all, just blocks it...\).
+{% hint style="danger" %}
+You can also install no software at all and just use Teams through a browser – I really don't recommend this. It is not a great option since you have to sign in again and again and again forever. Generally the platform via browsers allows you to do less with more hassle. Also, as of writing this \(August 2021\) if you are a Mac/ iPhone user, Teams does not work with Safari \(e.g. at all, just blocks it...\).
+{% endhint %}
 
-1. So, you've likely already installed MS Office 365. If you haven't maybe do that first. Its free as long when you're a Carleton student. You might think you don't need to install Teams separately but you do. Getting your Office licence working doesn't mean it works for Teams. Sigh, Microsoft.
-2. Now, Carleton ITS has instructions on how to install Teams. You can see if you can follow along with their instructions, [here](https://carleton.ca/its/teams/download-app/). You fall into the category of "unmanaged PC" or Mac.
-3. If you don't want to click to that page, install Teams our way. You can download mobile or desktop versions for most operating systems at the Canadian Microsoft site: [https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app)​
+So, you've likely already installed MS Office 365. If you haven't maybe do that first. Its free as long when you're a Carleton student. You might think you don't need to install Teams separately but you do. Getting your Office licence working doesn't mean it works for Teams. Sigh, Microsoft.
+
+1. Now, Carleton ITS has instructions on how to install Teams. You can see if you can follow along with their instructions, [here](https://carleton.ca/its/teams/download-app/). You fall into the category of "unmanaged" PC or Mac.
+2. If you don't want to click to that page, install Teams our way. You can download mobile or desktop versions for most operating systems at the Canadian Microsoft site: [https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app)​
    1. Direct link for Apple's iOS \([App Store](https://itunes.apple.com/app/id1113153706)\)
    2. Direct link for Android devices \([App Store](https://play.google.com/store/apps/details?id=com.microsoft.teams)\)
-4. If you click on the [first link](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app) it will take you to this page:
+3. If you click on the [first link](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app) it will take you to this page:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-M9P9uhKMtgnmfZGQwcH%2F-M9PCMgVjdDBfLnw5McG%2FScreen%20Shot%202020-06-09%20at%201.45.44%20PM.png?alt=media&token=65164d99-795b-4190-aa30-306519389ecb)
 
@@ -39,7 +44,7 @@ I do allow it! Please just work!
 
 Yay! It worked!
 
-7. Next you need to open up Teams after install and it will ask you for your Carleton email address. It will be something like "[\[email protected\]](https://marc-saurette.gitbook.io/cdn-cgi/l/email-protection)" \(_←_ _**not**_ [_\[email protected\]_](https://marc-saurette.gitbook.io/cdn-cgi/l/email-protection) address – that would mess everything up royally.
+7. Next you need to open up Teams after install and it will ask you for your Carleton email address. It will be something like "firstnameLastname@cmail.carleton.ca" \(_←_ _**not**_ "Firstname.Lastname@carleton.ca\) address – that would mess everything up royally.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-M9TnMhb2XlFL1iEqDnC%2F-M9TpONrt_p5Sh2u4QS9%2FScreen%20Shot%202020-06-10%20at%2011.07.55%20AM.png?alt=media&token=aae0cf08-6d7d-4257-8670-318c08ca4955)
 
@@ -63,12 +68,14 @@ Or it might just keep sending you back to this message recursively. I would love
 
 **YOU MUST ENABLE O365 SERVICES \(other than email, which is enabled by default\)** To **enable** Microsoft Office 365 Services, \(other than email which is pre-enabled\), accept Microsoft’s offer here:
 
-* * 
- 2. If that doesn't work, email [\[email protected\]](https://marc-saurette.gitbook.io/cdn-cgi/l/email-protection) for help.
+* **Students**: [carleton.ca/its/ms-offer-students](https://carleton.ca/its/ms-offer-students)
+* **Staff/faculty**: [carleton.ca/its/ms-offer-faculty](https://carleton.ca/its/ms-offer-faculty)
+
+ 2. If that doesn't work, email its.service.desk@carleton.ca for help.
 
 ## Using Teams <a id="using-teams"></a>
 
-If you haven't used it before \(and I haven't before May, 2020\) Teams will take a bit of getting used to understand how it works best.
+If you haven't used it before \(and I hadn't before May, 2020\) Teams will take a bit of getting used to understand how it works best.
 
 Watch a video about what it is. Microsoft adds lots of touching music and feel good images to make you think that it will solve all your problems. It won't but, they do give you a bit of a sense on how to use Teams.
 
@@ -76,5 +83,7 @@ Download a PDF "[Quick Start Guide](https://edudownloads.azureedge.net/msdownloa
 
 Go to the next page for more information about how to use Teams for this class.
 
-Microsoft is pushing Teams in 2020 as their videoconference/ teaching solution because of the deperate need of schools, universities and government to quickly adopt a distance-learing "solution". It keeps getting updated and new functionalities appear frequently, so what it can do/ how we can use it might change over the course of our class.
+{% hint style="warning" %}
+Microsoft is pushing _Teams_ as their videoconference/ teaching solution because of the desperate need of schools, universities and government to quickly adopt a distance-learning "solution". It keeps getting updated and new functionalities appear frequently, so what it can do/ how we can use it might change over the course of our class.
+{% endhint %}
 
