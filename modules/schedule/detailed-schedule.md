@@ -10,6 +10,10 @@ I'll ask you to introduce yourself \(hopefully, we'll meet most everyone, if tim
 
 You'll write a profile of yourself for your first assignment on cuPortfolio, so you can roll over your introduction into that work. 
 
+{% hint style="info" %}
+No readings required in advance.
+{% endhint %}
+
 #### Class 2 & 3. Managing Myths of the Middle Ages. 
 
 Class 4 & 5. 
