@@ -30,19 +30,23 @@ Chapter one highlights key myths of the Middle Ages and seeks to correct them. D
 Perhaps another thing to think about also is how does the Middle Ages appear differently in pop culture and in academic scholarly circles?
 {% endhint %}
 
-#### Class 4. Medievalism
+#### Class 4. What are "Medievalisms"?
 
-#### Class 5. Academic Medievalism
+#### Class 5. How is Medieval Studies a _medievalism?_
 
-#### Class 6. 
+#### Class 6 & 7. Contemporary relevence of Medieval Studies
 
-#### Class 7.
+Being able to distinguish the past from historical longing or imaginative nostalgia, is not only a key part of medieval studies, but is also a fundamental necessity of modern citizenship. The use and abuse of the past 
 
 ### II. Reading about the Medieval and Early Modern Past \(Secondary Sources\)
 
-#### Class. 8. Library Skills
+#### Class. 8. How to read for class.
 
-#### Class 9. How to read for class.
+{% hint style="info" %}
+Anatomy of a Secondary Source
+{% endhint %}
+
+#### Class 9. Library Skills
 
 #### --- Class 10. Thanksgiving ---------
 
@@ -59,6 +63,10 @@ Perhaps another thing to think about also is how does the Middle Ages appear dif
 ### III. Touching the Medieval and Early Modern Past \(Primary Sources\)
 
 #### Class 16. 
+
+{% hint style="info" %}
+Anatomy of a Primary Source
+{% endhint %}
 
 #### Class 17. 
 
