@@ -1,6 +1,6 @@
 # Reading Cluny's Foundation Charter
 
-Cluny's foundation charter is likely the most reproduced source of Cluniac History. On pages 184-187 of Rosenwein's reader, you will find a translation of it as well as a short introduction she wrote to accompany the text. We will comment on it on Perusall [here](https://app.perusall.com/courses/medieval-europe-262982000/reading-the-middle-ages-sources-from-europe-byzantium-and-the-islamic-world-third-edition?annotationId=WY8GdSsZzEQgvKhSu).
+Cluny's foundation charter is likely the most reproduced source of Cluniac History. On pages 184-187 of Rosenwein's reader, you will find a translation of it as well as a short introduction she wrote to accompany the text. We will comment on it on Perusall.
 
 At this stage you will likely know little about medieval monks, charters, dukes, or even where Aquitaine or Cluny is. That's to be expected. But we'll try to make sense of the document, even if there are some things you need to figure out still. You can start reading it there and making notes in the margins, highlight things you find important, or confusing. And then we can do the same online together using hypothes.is.
 
