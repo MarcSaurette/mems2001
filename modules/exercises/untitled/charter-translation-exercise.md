@@ -4,3 +4,5 @@ Translations are attempts to make old or foreign texts intelligible to their aud
 
 For this exercise, I want us to translate the Cluniac foundation charter into a form that makes sense to you. We're going to make a new translation of Ernest F. Henderson's English translation from more than 130 years ago. Here is how it starts, but I'll post a word file on Teams for us to edit.
 
+
+

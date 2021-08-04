@@ -38,7 +38,6 @@
     * [The Research Process](modules/exercises/untitled-1/the-research-process.md)
   * [Anatomy of a Primary Source](modules/exercises/untitled/README.md)
     * [The Problem of Primary Sources](modules/exercises/untitled/the-problem-of-primary-sources.md)
-    * [Sources Schematic](modules/exercises/untitled/sources-schematic.md)
     * [Reading Cluny's Foundation Charter](modules/exercises/untitled/reading-clunys-foundation-charter.md)
     * [Charter Translation Exercise](modules/exercises/untitled/charter-translation-exercise.md)
 
