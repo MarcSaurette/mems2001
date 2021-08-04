@@ -7,8 +7,8 @@
 | 3 | 15/09/21 | [Myths of the Middle Ages](detailed-schedule.md#class-2-and-3-myths-of-the-middle-ages) II |
 | 4 | 20/09/21 | [Medievalisms I](detailed-schedule.md#class-4-what-are-medievalisms) |
 | 5 | 22/09/21 | [Medievalisms II](detailed-schedule.md#class-5-how-is-medieval-studies-a-medievalism) |
-| 6 | 27/09/21 |  |
-| 7 | 29/09/21 |  |
+| 6 | 27/09/21 | Contemporary Relevance of Medieval Studies I |
+| 7 | 29/09/21 | Contemporary Relevance of Medieval Studies II |
 | 8 | 04/10/12 |  |
 | 9 | 06/10/21 |  |
 | 10 | 11/10/21 | **Thanksgiving. No classes.**  |

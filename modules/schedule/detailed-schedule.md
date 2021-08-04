@@ -38,6 +38,9 @@ Perhaps another thing to think about also is how does the Middle Ages appear dif
 
 Being able to distinguish the past from historical longing or imaginative nostalgia, is not only a key part of medieval studies, but is also a fundamental necessity of modern citizenship. The use and abuse of the past 
 
+* Class 6. Read Marcus Bull's _Thinking Medieval,_ chapter SSS \(on relevence\).
+* Class 7. Read Kaufmann and Sturtevant on the clash of civilizations \(history as innoculation against facile jingoism\). 
+
 ### II. Reading about the Medieval and Early Modern Past \(Secondary Sources\)
 
 #### Class. 8. How to read for class.
