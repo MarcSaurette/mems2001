@@ -2,7 +2,7 @@
 
 | Class | Date | Topic |
 | :--- | :--- | :--- |
-| 1 | 08/09/21 | [Introduction to the Middle Ages](detailed-schedule.md#class-1-introduction) |
+| 1 | 08/09/21 | [Prologue to the Middle Ages](detailed-schedule.md#class-1-introduction) |
 | 2 | 13/09/21 | [Myths of the Middle Ages](detailed-schedule.md#class-2-and-3-myths-of-the-middle-ages) |
 | 3 | 15/09/21 | [Myths of the Middle Ages](detailed-schedule.md#class-2-and-3-myths-of-the-middle-ages) |
 | 4 | 20/09/21 |  |

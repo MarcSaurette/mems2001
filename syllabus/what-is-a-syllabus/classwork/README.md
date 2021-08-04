@@ -4,16 +4,14 @@
 {% tab title="Reading" %}
 The bulk of your work this term will be reading. You need to read, both the learn how medievalists write, but also to practice your ability to read carefully, closely and critically.
 
-I am trying something new this year. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via [Perusall](../digital-tools/perusall/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. 
-
-You will not need to purchase any textbook for this class. 
+Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via [Perusall](../../digital-tools/perusall/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. 
 
 ### What is Social Annotation?
 
 Social annotation takes the usually solitary act of reading and allows students to do it in community with one another. By using digital tools to highlight, comment, or otherwise annotate a text, students “do the reading,” but do so in conversation with their peers.
 
 {% hint style="info" %}
-We are going to experiment with the QQTPA method for class.  When you are reading on Perusall/ with Hypothes.is in preparation for class, you are asked to highlight key texts, pose questions and make comments in the margins of the textbooks. Make sure to write all of the following:
+We are going to experiment with the QQTPA method for class.  When you are reading on Perusall in preparation for class, you are asked to highlight key texts, pose questions and make comments in the margins of the textbooks. Attempt to do all of the following types of comments as far as possible \(understandably of course, if no one has added a question by time you begin to annotate, it will be hard to provide an answer...\). 
 
 **a Question**: Write a discussion question based on any one of the readings assigned. As you read assigned materials, note where questions come to mind about the ideas, timeline, methods or conclusions. This can be a simple, "What is X the author is talking about" or a thoughtful question that invites analysis, synthesis, or evaluation of the material, or makes connections between the readings/ previous discussion.
 
@@ -52,7 +50,7 @@ You will offer at least three of your fellow students helpful comments on and cr
 {% endtab %}
 
 {% tab title="Profile" %}
-Your first piece of work for the class will be a profile on cuPortfolio introducing yourself \(and mostly getting used to the platform\). On cuPortfolio, you will write up something a bit more lengthy \(with pictures and links!\). Follow the instructions [here](../digital-tools/culearn/untitled.md) on how to get started on cuPortfolio. 
+Your first piece of work for the class will be a profile on cuPortfolio introducing yourself \(and mostly getting used to the platform\). On cuPortfolio, you will write up something a bit more lengthy \(with pictures and links!\). Follow the instructions [here](../../digital-tools/culearn/untitled.md) on how to get started on cuPortfolio. 
 
 Since we won't be meeting in person, I want all the students to put together a profile page which gives your fellow students a sense of who you are, why you took the course, how many cute animals you have, your social media id's \(if you want\) ... [Here](https://cuportfolio.carleton.ca/view/view.php?t=R0JhOVq2vQu3xfWjiceY) is a simple profile page I've put together for myself. 
 
