@@ -12,11 +12,21 @@ You'll write a profile of yourself for your first assignment on cuPortfolio, so 
 
 {% hint style="info" %}
 No readings required in advance.
+
+For next week, think about some examples of the Middle Ages in pop culture that you are familiar with – movies you've watched, toys or games you've played, books you've read, and just random examples of "medieval-ness" that surround us \(i.e. gothic style churches in downtown Ottawa, knights being used to sell insurance...\)
 {% endhint %}
 
-#### Class 2 & 3. Managing Myths of the Middle Ages. 
+#### Class 2 & 3. Myths of the Middle Ages. 
 
-Class 4 & 5. 
+Our culture is permeated by images of the Middle Ages – this summer saw the release of the latest adaptation of the Middle English poem, _Gawain and the Green Knight_, heritage monuments in Ottawa are dominated by a retro nineteenth-century gothic style, and new books, toys and games which feature knights, castles, princesses \(and the such\) all the time. 
+
+Our topic for these two classes is to consider both 1\) how images of the Middle Ages permeate our culture and 2\) why this is the case?
+
+{% hint style="info" %}
+Read the introduction and first chapter of Kaufman and Sturtevant's _The Devil's Historians_
+{% endhint %}
+
+#### Class 4 & 5. 
 
 ### II. Reading about the Medieval and Early Modern Past \(Secondary Sources\)
 
