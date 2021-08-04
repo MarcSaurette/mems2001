@@ -1,6 +1,6 @@
 # Reading Cluny's Foundation Charter
 
-Cluny's foundation charter is likely the most reproduced source of Cluniac History. On pages 184-187 of Rosenwein's reader, you will find a translation of it as well as a short introduction she wrote to accompany the text. We will comment on it on Perusall.
+Cluny's foundation charter is likely the most reproduced source of Cluniac History. On pages 184-187 of Rosenwein's reader \(reproduced on Perusall\), you will find a translation of it as well as a short introduction she wrote to accompany the text. We will comment on it on Perusall.
 
 At this stage you will likely know little about medieval monks, charters, dukes, or even where Aquitaine or Cluny is. That's to be expected. But we'll try to make sense of the document, even if there are some things you need to figure out still. You can start reading it there and making notes in the margins, highlight things you find important, or confusing. And then we can do the same online together using hypothes.is.
 
@@ -12,7 +12,8 @@ If you want to see different versions of this foundation charter, consult any of
 * colour digitization of an [eleventh-century Cluniac copy](https://gallica.bnf.fr/ark:/12148/btv1b10545027z/f130.item.zoom) of the foundation charter.
 * the foundation charter in the seventeenth-century [Bibliotheca Cluniacensis](https://gallica.bnf.fr/ark:/12148/bpt6k1086219/f27.image.r=bibliotheca%20cluniacensis)​
 * a [seventeenth-century hardwritten copy](https://gallica.bnf.fr/ark:/12148/btv1b10038977s/f83.image) of the Bibliotheca Cluniacensis edition
-* * the original source for the translation of the foundation charter is reproduced in the Internet Medieval Sourcebook from Ernest F. Henderson, [_Select Historical Documents of the Middle Ages,_](https://en.wikisource.org/wiki/Select_Historical_Documents_of_the_Middle_Ages/Book_III/The_Foundation_Charter_of_the_Order_of_Cluny) \(London: George Bell and Sons, 1892\), 329-333 here: [https://sourcebooks.fordham.edu/source/chart-cluny.asp](https://sourcebooks.fordham.edu/source/chart-cluny.asp).
+* a ninteenth-century edition in [_Recueil des chartes de l'abbaye de Cluny._ ](https://gallica.bnf.fr/ark:/12148/bpt6k28908j/f180.image)\_\_
+* the original source for the translation of the foundation charter is reproduced in the Internet Medieval Sourcebook from Ernest F. Henderson, [_Select Historical Documents of the Middle Ages,_](https://en.wikisource.org/wiki/Select_Historical_Documents_of_the_Middle_Ages/Book_III/The_Foundation_Charter_of_the_Order_of_Cluny) \(London: George Bell and Sons, 1892\), 329-333 also presented here: [https://sourcebooks.fordham.edu/source/chart-cluny.asp](https://sourcebooks.fordham.edu/source/chart-cluny.asp).
 
 Digital editions:
 
