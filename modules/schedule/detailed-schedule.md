@@ -59,7 +59,7 @@ Anatomy of a Secondary Source
 
 #### Class 9. Library Skills
 
-#### --- Class 10. Thanksgiving ---------
+#### --- No Class 10. Thanksgiving ---------
 
 #### Class 11. When is the Middle Ages?
 
