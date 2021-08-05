@@ -32,6 +32,10 @@ Perhaps another thing to think about also is how does the Middle Ages appear dif
 
 #### Class 4. What are "Medievalisms"?
 
+In today's class we will discuss the analytical category of "medievalisms", i.e. representations of the 'medieval' past. We will also spend some time thinking about periodization \(i.e. why do we divide the past into chunks of time?\). 
+
+An important category of modern historical thinking is to reflect on how nostalgia, commemoration and use of the past is used in contemporary society. Reflecting on your own sense of history \(e.g. your family history, your connection to the Middle Ages, your idea of how you fit in Canadian history, what you think about statues of historical figures\).
+
 {% hint style="info" %}
 Read Louise D'Arcens, "Introduction," _Cambridge Companion to Medievalisms._ 
 {% endhint %}

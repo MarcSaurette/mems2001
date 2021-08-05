@@ -33,6 +33,7 @@
 * [Schedule](modules/schedule/README.md)
   * [Detailed Schedule](modules/schedule/detailed-schedule.md)
 * [Exercises](modules/exercises/README.md)
+  * [Ottawa Medievalism](modules/exercises/ottawa-medievalism.md)
   * [Anatomy of an Academic Article](modules/exercises/untitled-1/README.md)
     * [Understanding Research Articles](modules/exercises/untitled-1/understanding-research-articles.md)
     * [The Research Process](modules/exercises/untitled-1/the-research-process.md)
