@@ -32,13 +32,21 @@ Perhaps another thing to think about also is how does the Middle Ages appear dif
 
 #### Class 4. What are "Medievalisms"?
 
+{% hint style="info" %}
+Read Louise D'Arcens, "Introduction," _Cambridge Companion to Medievalisms._ 
+{% endhint %}
+
 #### Class 5. How is Medieval Studies a _medievalism?_
+
+{% hint style="info" %}
+Read Richard Utz, "Academic Medievalism and Nationalism," in _Cambridge Companion to Medievalism._ 
+{% endhint %}
 
 #### Class 6 & 7. Contemporary relevence of Medieval Studies
 
 Being able to distinguish the past from historical longing or imaginative nostalgia, is not only a key part of medieval studies, but is also a fundamental necessity of modern citizenship. The use and abuse of the past 
 
-* Class 6. Read Marcus Bull's _Thinking Medieval,_ chapter SSS \(on relevence\).
+* Class 6. Read Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevence\).
 * Class 7. Read Kaufmann and Sturtevant on the clash of civilizations \(history as innoculation against facile jingoism\). 
 
 ### II. Reading about the Medieval and Early Modern Past \(Secondary Sources\)
@@ -68,7 +76,9 @@ Anatomy of a Secondary Source
 #### Class 16. 
 
 {% hint style="info" %}
-Anatomy of a Primary Source
+Read Marcus Bull, "Evidence for Medieval History", in _Thinking Medieval._ 
+
+Read Anatomy of a Primary Source. 
 {% endhint %}
 
 #### Class 17. 
