@@ -11,7 +11,7 @@ I'll ask you to introduce yourself \(hopefully, we'll meet most everyone, if tim
 You'll write a profile of yourself for your first assignment on cuPortfolio, so you can roll over your introduction into that work. 
 
 {% hint style="info" %}
-No readings required in advance.
+No readings required in advance. Think about a few things you might want to say to introduce yourself. 
 
 For next week, think about some examples of the Middle Ages in pop culture that you are familiar with – movies you've watched, toys or games you've played, books you've read, and just random examples of "medieval-ness" that surround us \(i.e. gothic style churches in downtown Ottawa, knights being used to sell insurance...\)
 {% endhint %}
