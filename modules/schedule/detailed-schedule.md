@@ -60,17 +60,17 @@ Read and comment on Richard Utz, "Academic Medievalism and Nationalism," in _Cam
 Read and comment on Patrick Geary, "A Poisoned Landscape: Ethnicity and Nationalism in the Nineteenth Century,” in _The Myth of Nations: The Medieval Origins of Europe_ on Perusall. 
 {% endhint %}
 
+### II. Reading about the Medieval and Early Modern Past \(Secondary Sources\)
+
 #### Class 6 & 7 - September 27th & 29th. Contemporary relevence of Medieval Studies
 
 Being able to distinguish the past from historical longing or imaginative nostalgia, is not only a key part of medieval studies, but is also a fundamental necessity of modern citizenship. Our goal is to engage in a bit of meta-thinking about how studying history \(in our case, medieval history\) has a purpose and how critical thinking arises from the study of the past. 
 
 {% hint style="info" %}
-**Class 6**. Read and comment on Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevence\).
+**Class 6**. Read and comment on Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevance\).
 
 **Class 7**. Read and comment on Kaufmann and Sturtevant's _The Devil's Historians_ chapter on the clash of civilization. Their goal is to hightlight the utility of studying history as innoculation against facile jingoism. In your comments try to address this topic. 
 {% endhint %}
-
-### II. Reading about the Medieval and Early Modern Past \(Secondary Sources\)
 
 #### Class. 8 - October 4th. How to read for class.
 

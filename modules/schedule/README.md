@@ -13,8 +13,8 @@
 | 9 | 06/10/21 | Library Research |
 | 10 | 11/10/21 | **Thanksgiving. No classes.**  |
 | 11 | 13/10/21 | Where and When is the Middle Ages? |
-| 12 | 18/10/21 |  |
-| 13 | 20/10/21 |  |
+| 12 | 18/10/21 | King Arthur and National Heroes |
+| 13 | 20/10/21 | What are the _Real_ Middle Ages? |
 | 14 | 01/11/21 |  |
 | 15 | 3/11/21 |  |
 | 16 | 8/11/21 |  |
@@ -27,5 +27,5 @@
 | 23 | 1/12/21 |  |
 | 24 | 6/12/21 |  |
 | 25 | 8/12/21 |  |
-| 26 | 10/12/21 | Last Day of Classes. Friday Schedule.  |
+| 26 | 10/12/21 | Last Day of Classes. Friday follows Monday schedule.  |
 
