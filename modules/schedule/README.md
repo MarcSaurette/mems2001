@@ -12,7 +12,7 @@
 | 8 | 04/10/12 | Reading Academic Sources |
 | 9 | 06/10/21 | Library Research |
 | 10 | 11/10/21 | **Thanksgiving. No classes.**  |
-| 11 | 13/10/21 |  |
+| 11 | 13/10/21 | Where and When is the Middle Ages? |
 | 12 | 18/10/21 |  |
 | 13 | 20/10/21 |  |
 | 14 | 01/11/21 |  |

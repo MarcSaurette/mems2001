@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Reading" %}
-The bulk of your work this term will be reading. You need to read, both the learn how medievalists write, but also to practice your ability to read carefully, closely and critically.
+The bulk of your work this term will be reading. You need to read, both to learn how medievalists write, but also to practice your ability to read carefully, closely and critically. Reading helps you to practice _thinking_. 
 
 Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via [Perusall](../../digital-tools/perusall/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. 
 

@@ -8,7 +8,7 @@ For example, the readings for week 3 \(September 20th and 22nd\) must be complet
 
 1. End of Week Two \(September 17th\) - submit your **Profile**. 
 2. End of Week 4 \(October 1st\) - submit your **Reflection**. 
-3. End of Week 5. \(October 8th\) Submit the choice of topic for your **Research**.
+3. Second class of Week 5 \(October 6th\) Submit chosen topic for **Research**.
 4. End of Week 6 \(October 15th\) Post your **Annotated Bibliography**. 
 5. End of Week 7 \(October 22nd\) - **Mid Term Process** **letter** is due. 
 6. End of Week 8 \(November 5th\). Submit **Preliminary Report** on your reseach topic.
