@@ -37,33 +37,48 @@ In today's class we will discuss the analytical category of "medievalisms", i.e.
 An important category of modern historical thinking is to reflect on how nostalgia, commemoration and use of the past is used in contemporary society. Reflecting on your own sense of history \(e.g. your family history, your connection to the Middle Ages, your idea of how you fit in Canadian history, what you think about statues of historical figures\).
 
 {% hint style="info" %}
-Read Louise D'Arcens, "Introduction," _Cambridge Companion to Medievalisms._ 
+Read and comment on Louise D'Arcens, "Introduction," _Cambridge Companion to Medievalisms_ posted on [Perusall](../../syllabus/digital-tools/perusall/). 
 
 Take a look at the [exercise](../exercises/ottawa-medievalism.md) on the Henry Harper Monument \(Ottawa\). For half the class, you will work together in small groups to understand a particularly Ottawa example of a _medievalism._ Look at the reading material listed there as well as the questions you will be expected to answer in small groups and further discuss as a class. 
 {% endhint %}
 
 #### Class 5. How is Medieval Studies a _medievalism?_
 
+In this class, we'll think about how Medieval Studies \(how the Middle Ages is taught in university\) is a form of "found medievalism" \(to use d'Arcens' term\). That academic representations of the past are not as objective as you might think and the dangers of relying on the vagaries of what evidence survives to the present. 
+
+After I lead a rapid whirlwind tour of the development of "Medieval Studies" from the sixteenth-century to the nineteenth, Richard Utz will be the guide our discussion about the nineteenth and twentieth century trends in academia/ professional study of the Middle Ages. As Utz's title indicates, Medieval Studies has a lot to do with state-supported nationalism. 
+
 {% hint style="info" %}
-Read Richard Utz, "Academic Medievalism and Nationalism," in _Cambridge Companion to Medievalism._ 
+Read and comment on Richard Utz, "Academic Medievalism and Nationalism," in _Cambridge Companion to Medievalism._ 
 {% endhint %}
 
 #### Class 6 & 7. Contemporary relevence of Medieval Studies
 
-Being able to distinguish the past from historical longing or imaginative nostalgia, is not only a key part of medieval studies, but is also a fundamental necessity of modern citizenship. The use and abuse of the past 
+Being able to distinguish the past from historical longing or imaginative nostalgia, is not only a key part of medieval studies, but is also a fundamental necessity of modern citizenship. Our goal is to engage in a bit of meta-thinking about how studying history \(in our case, medieval history\) has a purpose and how critical thinking arises from the study of the past. 
 
-* Class 6. Read Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevence\).
-* Class 7. Read Kaufmann and Sturtevant on the clash of civilizations \(history as innoculation against facile jingoism\). 
+{% hint style="info" %}
+**Class 6**. Read and comment on Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevence\).
+
+**Class 7**. Read and comment on Kaufmann and Sturtevant's _The Devil's Historians_ chapter on the clash of civilization. Their goal is to hightlight the utility of studying history as innoculation against facile jingoism. In your comments try to address this topic. 
+{% endhint %}
 
 ### II. Reading about the Medieval and Early Modern Past \(Secondary Sources\)
 
 #### Class. 8. How to read for class.
 
+In this class, we'll tackle the practical skills of reading academic history efficiently. At the same time, it will introduce us to how we can conceptualize the Middle Ages as a global phenomenon \(or at least not just a Western European one...\). 
+
+* Before class, you should complete the [Anatomy of a Secondary Source](../exercises/untitled-1/) exercise. Your annotations need to be completed by Sunday morning, so that I can see what questions and difficulties you raise, and what you take away from the article.
+* We will begin class by breaking you into small groups to discuss your findings
+* We will return to a class discussion to discuss key questions 
+
 {% hint style="info" %}
-Anatomy of a Secondary Source
+Before class, complete the [Anatomy of a Secondary Source](../exercises/untitled-1/) exercise
 {% endhint %}
 
 #### Class 9. Library Skills
+
+In this class I will be demonstrating 
 
 #### --- No Class 10. Thanksgiving ---------
 

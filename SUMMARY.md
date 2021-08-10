@@ -37,6 +37,7 @@
   * [Anatomy of an Academic Article](modules/exercises/untitled-1/README.md)
     * [Understanding Research Articles](modules/exercises/untitled-1/understanding-research-articles.md)
     * [The Research Process](modules/exercises/untitled-1/the-research-process.md)
+  * [Library Research Hunt](modules/exercises/library-research-hunt.md)
   * [Anatomy of a Primary Source](modules/exercises/untitled/README.md)
     * [The Problem of Primary Sources](modules/exercises/untitled/the-problem-of-primary-sources.md)
     * [Reading Cluny's Foundation Charter](modules/exercises/untitled/reading-clunys-foundation-charter.md)

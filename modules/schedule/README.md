@@ -9,8 +9,8 @@
 | 5 | 22/09/21 | [Medievalisms II](detailed-schedule.md#class-5-how-is-medieval-studies-a-medievalism) |
 | 6 | 27/09/21 | Contemporary Relevance of Medieval Studies I |
 | 7 | 29/09/21 | Contemporary Relevance of Medieval Studies II |
-| 8 | 04/10/12 |  |
-| 9 | 06/10/21 |  |
+| 8 | 04/10/12 | Reading Academic Sources |
+| 9 | 06/10/21 | Library Research |
 | 10 | 11/10/21 | **Thanksgiving. No classes.**  |
 | 11 | 13/10/21 |  |
 | 12 | 18/10/21 |  |
