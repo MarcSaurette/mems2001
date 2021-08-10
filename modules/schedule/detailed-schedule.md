@@ -68,7 +68,7 @@ Being able to distinguish the past from historical longing or imaginative nostal
 
 In this class, we'll tackle the practical skills of reading academic history efficiently. At the same time, it will introduce us to how we can conceptualize the Middle Ages as a global phenomenon \(or at least not just a Western European one...\). 
 
-* Before class, you should complete the [Anatomy of a Secondary Source](../exercises/untitled-1/) exercise. Your annotations need to be completed by Sunday morning, so that I can see what questions and difficulties you raise, and what you take away from the article.
+* Before class, you should complete the [Anatomy of a Secondary Source](../exercises/untitled-1/) exercise. Your annotations need to be completed by Sunday morning, so that I can see what questions and difficulties you raise, and what you take away from the article. We will practice "reading together" via Perusall as a way to have a deeper engagement with the reading.
 * We will begin class by breaking you into small groups to discuss your findings
 * We will return to a class discussion to discuss key questions 
 
