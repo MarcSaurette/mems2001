@@ -38,6 +38,8 @@ An important category of modern historical thinking is to reflect on how nostalg
 
 {% hint style="info" %}
 Read Louise D'Arcens, "Introduction," _Cambridge Companion to Medievalisms._ 
+
+Take a look at the [exercise](../exercises/ottawa-medievalism.md) on the Henry Harper Monument \(Ottawa\). For half the class, you will work together in small groups to understand a particularly Ottawa example of a _medievalism._ Look at the reading material listed there as well as the questions you will be expected to answer in small groups and further discuss as a class. 
 {% endhint %}
 
 #### Class 5. How is Medieval Studies a _medievalism?_
