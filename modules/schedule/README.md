@@ -13,19 +13,19 @@
 | 9 | 06/10/21 | Library Research |
 | 10 | 11/10/21 | **Thanksgiving. No classes.**  |
 | 11 | 13/10/21 | Where and When is the Middle Ages? |
-| 12 | 18/10/21 | King Arthur and National Heroes |
-| 13 | 20/10/21 | What are the _Real_ Middle Ages? |
-| 14 | 01/11/21 |  |
-| 15 | 3/11/21 |  |
-| 16 | 8/11/21 |  |
-| 17 | 10/11/21 |  |
-| 18 | 15/11/21 |  |
-| 19 | 17/11/21 |  |
-| 20 | 22/11/21 |  |
-| 21 | 24/11/21 |  |
-| 22 | 29/11/21 |  |
-| 23 | 1/12/21 |  |
-| 24 | 6/12/21 |  |
-| 25 | 8/12/21 |  |
+| 12 | 18/10/21 | Small Group Work I |
+| 13 | 20/10/21 | Small Group Work II |
+| 14 | 01/11/21 | Presentations I |
+| 15 | 3/11/21 | Presentations II |
+| 16 | 8/11/21 | Researching King Arthur |
+| 17 | 10/11/21 | Veracity and Authenticity in King Arthur |
+| 18 | 15/11/21 | Anatomy of a Primary Source |
+| 19 | 17/11/21 | Introduction to Written Documents \(Arc Folios\) |
+| 20 | 22/11/21 | John Osborne - Introduction to the use of material culture as documents |
+| 21 | 24/11/21 | Peter Coffman - Medieval Architecture |
+| 22 | 29/11/21 | Reading and Transcribing _The King of Tars_ I |
+| 23 | 1/12/21 | Reading and Transcribing _The King of Tars_ II |
+| 24 | 6/12/21 | Lori Jones? |
+| 25 | 8/12/21 | Print Workshop |
 | 26 | 10/12/21 | Last Day of Classes. Friday follows Monday schedule.  |
 
