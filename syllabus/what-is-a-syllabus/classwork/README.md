@@ -23,6 +23,21 @@ We are going to experiment with the QQTPA method for class.  When you are readin
 {% endhint %}
 {% endtab %}
 
+{% tab title="Profile" %}
+Your first piece of work for the class will be a profile on cuPortfolio introducing yourself \(and mostly getting used to the platform\). On cuPortfolio, you will write up something a bit more lengthy \(with pictures and links!\). Follow the instructions [here](../../digital-tools/culearn/untitled.md) on how to get started on cuPortfolio. 
+
+Since we won't be meeting in person, I want all the students to put together a profile page which gives your fellow students a sense of who you are, why you took the course, how many cute animals you have, your social media id's \(if you want\) ... [Here](https://cuportfolio.carleton.ca/view/view.php?t=R0JhOVq2vQu3xfWjiceY) is a simple profile page I've put together for myself. 
+
+I want you to:
+
+1. Select a layout that works and doesn't look super ugly after you have added content. My sense of aesthetics will be pained if you retain the three column layout that cuPorfolio defaults to, but then cram your text only into one column. Beware my wrath.
+2. Include a picture of yourself. And figure out how to add a caption to it. 
+3. Write up 500 words or so about yourself. It can be formal, it can be casual. It must use proper syntax. 
+4. If you exist online elsewhere, you can draw attention to such things \(if you want\) by linking to your Etsy business, your Soundcloud \(whatever that is\) etc. You can integrate your twitter feed or your youtube channel.
+
+The point of the assignment is that your classmates will get to know you and have a better sense of who you are. I ask you to include a photo of yourself \(not just your adorable cats and ferrets\) so that your classmates can learn to associate your name with a face. These "Student Profile" pages can only be viewed by the class not people outside \(unless you actively choose to make it more widely visible\).
+{% endtab %}
+
 {% tab title="Reflection" %}
 Near the outset of term, your goal is to reflect on what idea of the Middle Ages is already implanted in your head. Even for those of you who might think that "I don't know anything about the Middle Ages", you still have a clear sense of the time period \(rightly or wrongly\) transmitted by elementary school, Disney movies or playing Dark Souls \(or some other videogame\). 
 
@@ -42,26 +57,11 @@ A guide to proper Chicago style can be found here: [http://www.chicagomanualofst
 {% endtab %}
 
 {% tab title="Research" %}
-
+Over the course of the term, each students will work on researching a topic of their choice \(from a [predetermined list](research-topics.md)\) and communicating this research in a short oral presentation \(less than 5 minutes\) and written versions \(a draft and final polished version\). The [research project ](research-projects/)has several stages laid out in detail [here](research-projects/).
 {% endtab %}
 
 {% tab title="Reviewing" %}
-You will offer at least three of your fellow students helpful comments on and critiques of their developing work, in order to help them produce a polished final draft of their research. 
-{% endtab %}
-
-{% tab title="Profile" %}
-Your first piece of work for the class will be a profile on cuPortfolio introducing yourself \(and mostly getting used to the platform\). On cuPortfolio, you will write up something a bit more lengthy \(with pictures and links!\). Follow the instructions [here](../../digital-tools/culearn/untitled.md) on how to get started on cuPortfolio. 
-
-Since we won't be meeting in person, I want all the students to put together a profile page which gives your fellow students a sense of who you are, why you took the course, how many cute animals you have, your social media id's \(if you want\) ... [Here](https://cuportfolio.carleton.ca/view/view.php?t=R0JhOVq2vQu3xfWjiceY) is a simple profile page I've put together for myself. 
-
-I want you to:
-
-1. Select a layout that works and doesn't look super ugly after you have added content. My sense of aesthetics will be pained if you retain the three column layout that cuPorfolio defaults to, but then cram your text only into one column. Beware my wrath.
-2. Include a picture of yourself. And figure out how to add a caption to it. 
-3. Write up 500 words or so about yourself. It can be formal, it can be casual. It must use proper syntax. 
-4. If you exist online elsewhere, you can draw attention to such things \(if you want\) by linking to your Etsy business, your Soundcloud \(whatever that is\) etc. You can integrate your twitter feed or your youtube channel.
-
-The point of the assignment is that your classmates will get to know you and have a better sense of who you are. I ask you to include a photo of yourself \(not just your adorable cats and ferrets\) so that your classmates can learn to associate your name with a face. These "Student Profile" pages can only be viewed by the class not people outside \(unless you actively choose to make it more widely visible\).
+You will offer at some of your fellow students helpful comments on and critiques of their developing work, in order to help them produce a polished final draft of their research. You will use 
 {% endtab %}
 
 {% tab title="Self-Assessment" %}

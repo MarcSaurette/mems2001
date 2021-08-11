@@ -129,10 +129,12 @@ This week students will be making short presentations on their research topic.
 
 #### Class 16. Understanding Evidence
 
-{% hint style="info" %}
-Read Marcus Bull, "Evidence for Medieval History", in _Thinking Medieval._ 
+This week 
 
-Read and Complete Anatomy of a Primary Source. 
+{% hint style="info" %}
+Read and annotate Marcus Bull, "Evidence for Medieval History", in _Thinking Medieval_ on Perusall. 
+
+Read and Complete [Anatomy of a Primary Source](../exercises/untitled/), including annotating the primary source, the Cluniac Foundation Charter, on Perusall. 
 {% endhint %}
 
 #### Class 17. 
