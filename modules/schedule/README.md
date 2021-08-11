@@ -17,10 +17,10 @@
 | 13 | 20/10/21 | Small Group Work II |
 | 14 | 01/11/21 | Presentations I |
 | 15 | 3/11/21 | Presentations II |
-| 16 | 8/11/21 | Researching King Arthur |
+| 16 | 8/11/21 | Understanding Evidence |
 | 17 | 10/11/21 | Veracity and Authenticity in King Arthur |
 | 18 | 15/11/21 | Anatomy of a Primary Source \(Cluny Charter\) |
-| 19 | 17/11/21 | Introduction to Written Documents \(Arc Folios\) |
+| 19 | 17/11/21 | Introduction to Handwritten Documents \(Arc Folios\) |
 | 20 | 22/11/21 | John Osborne - Introduction to the use of material culture as documents? |
 | 21 | 24/11/21 | Peter Coffman - Medieval Architecture? |
 | 22 | 29/11/21 | Reading and Transcribing _The King of Tars_ I |

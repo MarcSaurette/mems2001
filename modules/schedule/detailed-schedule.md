@@ -52,7 +52,7 @@ Take a look at the [exercise](../exercises/ottawa-medievalism.md) on the Henry H
 
 In this class, we'll think about how Medieval Studies \(how the Middle Ages is taught in university\) is a form of "found medievalism" \(to use d'Arcens' term\). That academic representations of the past are not as objective as you might think and the dangers of relying on the vagaries of what evidence survives to the present. 
 
-After I lead a rapid whirlwind tour of the development of "Medieval Studies" from the sixteenth-century to the nineteenth, Richard Utz will be the guide our discussion about the nineteenth and twentieth century trends in academia/ professional study of the Middle Ages. As Utz's title indicates, Medieval Studies has a lot to do with state-supported nationalism. 
+After I lead a rapid whirlwind tour of the development of "Medieval Studies" from the sixteenth-century to the nineteenth, Richard Utz and Patrick Geary will be our guides  to the nineteenth and twentieth century trends in academia/ professional study of the Middle Ages. As their titles indicate, Medieval Studies has a lot to do with state-supported nationalism. 
 
 {% hint style="info" %}
 Read and comment on Richard Utz, "Academic Medievalism and Nationalism," in _Cambridge Companion to Medievalism_ on Perusall. 
@@ -67,7 +67,7 @@ Read and comment on Patrick Geary, "A Poisoned Landscape: Ethnicity and National
 Being able to distinguish the past from historical longing or imaginative nostalgia, is not only a key part of medieval studies, but is also a fundamental necessity of modern citizenship. Our goal is to engage in a bit of meta-thinking about how studying history \(in our case, medieval history\) has a purpose and how critical thinking arises from the study of the past. 
 
 {% hint style="info" %}
-**Class 6**. Read and comment on Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevance\).
+**Class 6**. Read and comment on Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevance\) on Perusall. 
 
 **Class 7**. Read and comment on Kaufmann and Sturtevant's _The Devil's Historians_ chapter on the clash of civilization. Their goal is to hightlight the utility of studying history as innoculation against facile jingoism. In your comments try to address this topic. 
 {% endhint %}
@@ -105,7 +105,7 @@ No readings for this class.
 
 #### --- No Class 10. Thanksgiving ---------
 
-#### Class 11. When and Where is the Middle Ages?
+#### Class 11 - October 13th. When and Where is the Middle Ages?
 
 In this class, we will return to the class 8 reading, supplemented by additional material on the periodization of the Middle Ages. Our goal is to consider how historical eras \(and their geographic limits\) are in some ways manufactured after the fact and to some extent determined by historical factors. I want students to arrive at a sense of what factors make something medieval \(which is not dependent on the myths or tropes discussed previously\).  
 
@@ -113,22 +113,26 @@ In this class, we will return to the class 8 reading, supplemented by additional
 Read and comment on "Remembering the Middle Ages"... on Perusall. 
 {% endhint %}
 
-#### Class 12 & 13. . Small Group Work 
+#### Class 12 & 13 - October 18th & 20th - Small Group Work .
 
+For this week, you will be meeting and working together in groups pre-assigned by the professor to prepare your presentation on your research topic. 
 
+{% hint style="info" %}
+October 25th and October 27 = Fall Reading Week. No classes. 
+{% endhint %}
 
-#### Class 14. 
+#### Class 14 & 15. November 1st & 3rd - Presentations. 
 
-#### Class 15. 
+This week students will be making short presentations on their research topic.
 
 ### III. Touching the Medieval and Early Modern Past \(Primary Sources\)
 
-#### Class 16. 
+#### Class 16. Understanding Evidence
 
 {% hint style="info" %}
 Read Marcus Bull, "Evidence for Medieval History", in _Thinking Medieval._ 
 
-Read Anatomy of a Primary Source. 
+Read and Complete Anatomy of a Primary Source. 
 {% endhint %}
 
 #### Class 17. 
