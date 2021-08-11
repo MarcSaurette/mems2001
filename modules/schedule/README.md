@@ -21,8 +21,8 @@
 | 17 | 10/11/21 | Veracity and Authenticity in King Arthur |
 | 18 | 15/11/21 | Anatomy of a Primary Source \(Cluny Charter\) |
 | 19 | 17/11/21 | Introduction to Written Documents \(Arc Folios\) |
-| 20 | 22/11/21 | John Osborne - Introduction to the use of material culture as documents |
-| 21 | 24/11/21 | Peter Coffman - Medieval Architecture |
+| 20 | 22/11/21 | John Osborne - Introduction to the use of material culture as documents? |
+| 21 | 24/11/21 | Peter Coffman - Medieval Architecture? |
 | 22 | 29/11/21 | Reading and Transcribing _The King of Tars_ I |
 | 23 | 1/12/21 | Reading and Transcribing _The King of Tars_ II |
 | 24 | 6/12/21 | Lori Jones? |
