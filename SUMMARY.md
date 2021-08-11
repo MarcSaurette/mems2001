@@ -45,4 +45,6 @@
     * [The Problem of Primary Sources](modules/exercises/untitled/the-problem-of-primary-sources.md)
     * [Reading Cluny's Foundation Charter](modules/exercises/untitled/reading-clunys-foundation-charter.md)
     * [Charter Translation Exercise](modules/exercises/untitled/charter-translation-exercise.md)
+  * [Transcription Exercise](modules/exercises/transcription-exercise/README.md)
+    * [Installing Medieval Unicode](modules/exercises/transcription-exercise/untitled.md)
 

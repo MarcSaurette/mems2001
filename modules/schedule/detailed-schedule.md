@@ -89,7 +89,7 @@ At the same time, it will introduce us to how we can conceptualize the Middle Ag
 Before class, complete the [Anatomy of a Secondary Source](../exercises/untitled-1/) exercise
 {% endhint %}
 
-#### Class 9 - October 6th. Library Skills
+#### Class 9 - October 6th. Library Research Skills
 
 In this class I will lay out the different parts to an academic research project and will then demonstrate some key library research tools, including:
 
@@ -113,9 +113,9 @@ In this class, we will return to the class 8 reading, supplemented by additional
 Read and comment on "Remembering the Middle Ages"... on Perusall. 
 {% endhint %}
 
-#### Class 12. 
+#### Class 12 & 13. . Small Group Work 
 
-#### Class 13. 
+
 
 #### Class 14. 
 
