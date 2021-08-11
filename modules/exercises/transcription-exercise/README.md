@@ -16,8 +16,6 @@ Some letters you might need to use \( I would suggest you copy and paste from he
 * ꝥ - Thorn with slash
 {% endhint %}
 
-
-
 For reference, you can compare the text of the manuscript with the text of various online editions \(or digitized printed editions\) listed below. The best starting place for students is the following, which has a glossary for the most unfamiliar terminology: 
 
 John Chandler, ed. _The King of Tars_, TEAMS texts \(Kalamazoo, Medieval Institute Publications, 2015\). http://d.lib.rochester.edu/teams/publication/chandler-the-king-of-tars
