@@ -127,9 +127,11 @@ This week students will be making short presentations on their research topic.
 
 ### III. Touching the Medieval and Early Modern Past \(Primary Sources\)
 
-#### Class 16. Understanding Evidence
+#### Class 16. November 8th - Understanding Evidence
 
-This week we will begin to think about how to use primary sources for medieval history. 
+This week we will begin to think about how to use primary sources for medieval history. Marcus Bull will be the starting point for our conversation about what consititutes "evidence" of the Middle Ages, how it survives and what we can conclude from it. We will then address the practical questions of understanding how one particular document survived to the present - the foundation Charter of Cluny. 
+
+Students should read and annotate the Foundation Charter of Cluny posted on Perusall, and in the last half of class we will work together to "translate" the nineteenth-century English into some more modern seeming. 
 
 {% hint style="info" %}
 Read and annotate Marcus Bull, "Evidence for Medieval History", in _Thinking Medieval_ on Perusall. 
@@ -137,7 +139,17 @@ Read and annotate Marcus Bull, "Evidence for Medieval History", in _Thinking Med
 Read and Complete [Anatomy of a Primary Source](../exercises/untitled/), including annotating the primary source, the Cluniac Foundation Charter, on Perusall. 
 {% endhint %}
 
-#### Class 17. 
+#### Class 17. Veracity and Authenticity
+
+In this class, we will be discussing the idea of historical authenticity, by reading prefaces to different historical works. One is modern \(from a work of fiction\), others are medieval \(and while self-proclaimed truthful, are largely fictional\). 
+
+{% hint style="info" %}
+Read and annotate Knibbs' article on "How to use Modern Critical Editions of Medieval Texts" to understand better what "editions" are \(when used by medievalists\). We will have talked a bit about editions in the previous class, so this should cement your understanding of this scholarly tool. 
+
+Read and annotate the preface of Umberto Eco's _Name of the Rose_
+
+Read and annotate the preface of 
+{% endhint %}
 
 #### Class 18. 
 

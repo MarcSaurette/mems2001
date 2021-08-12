@@ -18,7 +18,7 @@
 | 14 | 01/11/21 | [Presentations I](detailed-schedule.md#class-14-and-15-november-1st-and-3rd-presentations) |
 | 15 | 3/11/21 | [Presentations II](detailed-schedule.md#class-14-and-15-november-1st-and-3rd-presentations) |
 | 16 | 8/11/21 | [Understanding Evidence](detailed-schedule.md#class-16-understanding-evidence) |
-| 17 | 10/11/21 | [Veracity and Authenticity in King Arthur](detailed-schedule.md#class-17) |
+| 17 | 10/11/21 | [Veracity and Authenticity](detailed-schedule.md#class-17) |
 | 18 | 15/11/21 | [Anatomy of a Primary Source \(Cluny Charter\)](detailed-schedule.md#class-18) |
 | 19 | 17/11/21 | [Introduction to Handwritten Documents \(Arc Folios\)](detailed-schedule.md#class-19) |
 | 20 | 22/11/21 | [John Osborne - Introduction to the use of material culture as documents?](detailed-schedule.md#class-21) |

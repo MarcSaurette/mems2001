@@ -8,7 +8,7 @@ Documents rarely “tell their own story”. They require analysis and interpret
 
 Here is a simple visualization how historians use sources:
 
-![Simple terminology](../../../.gitbook/assets/a59bcaf1-d489-4076-a8b3-ea022c18f19d-2-2.png)
+![](../../../.gitbook/assets/a59bcaf1-d489-4076-a8b3-ea022c18f19d-2-2.png)
 
 The world of the past is vast and, ultimately unknowable in its entirety. We depend on attempts to record and represent the world of the past when we write history.
 
@@ -22,10 +22,10 @@ What we consider a primary source is relative. A nineteenth-century history of a
 
 They can take the form of: 
 
-* conference presentations \(the usual first step of academic inquiry is to present initial findings and thoughts in a 15-30 minute talk at a scholarly conference\). 
-* journal articles \(usually narrowly-focused write up of research; can also be survey of other secondary sources - i.e. a "literature review"\). 
-* monographs \(a book written on a single topic; parts of it might originally have been written up as different articles\)
-* edited volumes \(a collection of essays and articles written by several people loosely organized around a single theme. Often are proceedings from conferences\).
+* **conference presentations** \(the usual first step of academic inquiry is to present initial findings and thoughts in a 15-30 minute talk at a scholarly conference\). 
+* **journal articles** \(usually narrowly-focused write up of research; can also be survey of other secondary sources - i.e. a "literature review"\). 
+* **monographs** \(a book written on a single topic; parts of it might originally have been written up as different articles\)
+* **edited volumes** \(a collection of essays and articles written by several people loosely organized around a single theme. Often are proceedings from conferences\).
 
 * **Tertiary sources** are attempts to summarize what has been argued in secondary sources without engaging in original research on its own. These are sources like encyclopedias or dictionaries. They do not attempt to be cutting edge but rather summarize what is generally understood in reputable scholarship about a topic. This is why you will see on Wikipedia, for example, that an article is criticized for containing "[original thought](https://en.wikipedia.org/wiki/Wikipedia:No_original_research)" \(i.e. trying to be a secondary source\) which is something Wikipedia seeks to prohibit. 
 
