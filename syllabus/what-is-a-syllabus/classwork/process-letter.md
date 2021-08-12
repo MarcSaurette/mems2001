@@ -9,7 +9,7 @@ Midway through the course and at the end of the term, students will be asked to 
 
 The goal is for you to make an argument for the overall grade you will propose for yourself. I provide guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. The form posted on Teams will ask you similar but not identical questions to those below. I will ask something like:
 
-> Based on your work this semester, and taking into consideration the context of Fall 2020, select a letter grade for your work and your learning in this course. Write a narrative that addresses the following major prompts:
+> Based on your work this semester, and taking into consideration the context of Fall 2021, select a letter grade for your work and your learning in this course. Write a narrative that addresses the following major prompts:
 
 * Discuss your process as a learner: evaluate your engagement with course content by reflecting on how you handled all aspects of this course. What specific parts of your process worked and what parts would benefit from some adjustments? Why?
 * Discuss the products you generated as demonstrations of your learning: evaluate how your work has changed across the semester. Did certain elements improve more than others? Did certain elements become easier or more challenging? Describe.
