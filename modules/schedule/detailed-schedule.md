@@ -115,15 +115,15 @@ Read and comment on "Remembering the Middle Ages"... on Perusall.
 
 #### Class 12 & 13 - October 18th & 20th - Small Group Work .
 
-For this week, you will be meeting and working together in groups pre-assigned by the professor to prepare your presentation on your research topic. 
+For this week, you will be meeting and working together in groups pre-assigned by the professor to prepare your presentation on your research topic. No assigned readings.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 October 25th and October 27 = Fall Reading Week. No classes. 
 {% endhint %}
 
 #### Class 14 & 15. November 1st & 3rd - Presentations. 
 
-This week students will be making short presentations on their research topic.
+This week students will be making short presentations on their research topic. No assigned readings. 
 
 ### III. Touching the Medieval and Early Modern Past \(Primary Sources\)
 
@@ -139,25 +139,37 @@ Read and annotate Marcus Bull, "Evidence for Medieval History", in _Thinking Med
 Read and Complete [Anatomy of a Primary Source](../exercises/untitled/), including annotating the primary source, the Cluniac Foundation Charter, on Perusall. 
 {% endhint %}
 
-#### Class 17. Veracity and Authenticity
+#### Class 17. November 10th. Veracity and Authenticity
 
-In this class, we will be discussing the idea of historical authenticity, by reading prefaces to different historical works. One is modern \(from a work of fiction\), others are medieval \(and while self-proclaimed truthful, are largely fictional\). 
+In this class, we will be discussing the idea of historical authenticity, by reading prefaces to different historical works. One is modern \(from a work of fiction\), others are medieval \(and while self-proclaimed truthful, are largely fictional\). You will also read an article introducing you formally to using "critical" editions \(i.e. what they are, what kind of information they contain and how they can be used\). 
+
+Your goal in reading will be to reflect on how scholarly tools \(such as critical editions\) contain valuable information that might not be apparent at first, and to consider how things that look scholarly \(and truthful\) might not. Our goal is to have you practice reading critically.
 
 {% hint style="info" %}
 Read and annotate Knibbs' article on "How to use Modern Critical Editions of Medieval Texts" to understand better what "editions" are \(when used by medievalists\). We will have talked a bit about editions in the previous class, so this should cement your understanding of this scholarly tool. 
 
 Read and annotate the preface of Umberto Eco's _Name of the Rose_
 
-Read and annotate the preface of 
+Read and annotate the various prefaces to Geoffrey of Monmouth's _History of the Kings of Britain_ 
 {% endhint %}
 
-#### Class 18. 
+#### Class 18. November 15th - Introduction to Handwritten Documents
 
-#### Class 19. 
+In this class, we will introduce students to the medieval folios and manuscipts in Carleton's collections. We will meet with Lloyd Keane from the Archives and Research Collection to discuss the collection, how to visit it and what an archive/repository/research collection is. 
 
-#### Class 20. 
+Our goal is to introduce you to seeing medieval texts as material things that contain loads of information independent of the content on the page \(in essence you'll get a brief introduction to palaegraphy and codicology\). 
 
-#### Class 21.
+{% hint style="info" %}
+Take a look at [a google folder](https://drive.google.com/drive/folders/1NxCyjwV-E9DuIWZRnMHlFUuvimBfR2mM?usp=sharing) with images of the medieval material in our collections. 
+
+Look through [a digitized version of the Carleton Antiphonary](https://carleton-antiphonary.herokuapp.com), a MA project of a former Carleton student, Kate Brasseur. 
+{% endhint %}
+
+#### Class 19. November 17th. Introduction to Material Culture
+
+#### Class 20. November 22nd. Introduction to Medieval Architecture
+
+#### Class 21. November 24th. 
 
 #### Class 22.
 

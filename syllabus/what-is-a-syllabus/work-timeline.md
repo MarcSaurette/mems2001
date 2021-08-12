@@ -10,11 +10,10 @@ For example, the readings for week 3 \(September 20th and 22nd\) must be complet
 2. End of Week 4 \(October 1st\) - submit your **Reflection**. 
 3. Second class of Week 5 \(October 6th\) Choose topic for **Research**.
 4. End of Week 6 \(October 15th\) Post your **Annotated Bibliography**. 
-5. End of Week 7 \(October 22nd\) - Submit **Preliminary Report** on your reseach topic.
-6. End of Week 8 \(November 5th\). **Midterm Process** **letter** is due. 
-7. In class, week 9 \(November 8-10th\) - Make **Presentations**.
-8. End of week 10 \(November 19th\) - Submit **Peer review feedback**. 
-9. End of week 11 \(November 26th\) - Submit **Transcription** assignment.
-10. End of Week 12 \(December 3rd\) - Submit **Final Polished Research Project**.
-11. End of Term \(December 10th\) - **End of Term Process letter** is due. 
+5. End of Week 7 \(October 22nd\) - Submit **Preliminary Report** on reseach topic.
+6. In class, week 8 \(November 1st & 3rd\) - Make **Presentations**.
+7. End of Week 8 \(November 5th\). **Midterm Process** **letter** is due. 
+8. End of week 9 \(November 12th\) - Submit **Peer review feedback**. 
+9. End of Week 12 \(December 3rd\) - Submit **Final Polished Research Project**.
+10. End of Term \(December 10th\) - **End of Term Process letter** is due. 
 

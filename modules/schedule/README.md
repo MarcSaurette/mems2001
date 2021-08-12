@@ -19,13 +19,13 @@
 | 15 | 3/11/21 | [Presentations II](detailed-schedule.md#class-14-and-15-november-1st-and-3rd-presentations) |
 | 16 | 8/11/21 | [Understanding Evidence](detailed-schedule.md#class-16-understanding-evidence) |
 | 17 | 10/11/21 | [Veracity and Authenticity](detailed-schedule.md#class-17) |
-| 18 | 15/11/21 | [Anatomy of a Primary Source \(Cluny Charter\)](detailed-schedule.md#class-18) |
+| 18 | 15/11/21 | Introduction to Handwritten Documents |
 | 19 | 17/11/21 | [Introduction to Handwritten Documents \(Arc Folios\)](detailed-schedule.md#class-19) |
-| 20 | 22/11/21 | [John Osborne - Introduction to the use of material culture as documents?](detailed-schedule.md#class-21) |
-| 21 | 24/11/21 | [Peter Coffman - Medieval Architecture?](detailed-schedule.md#class-21) |
+| 20 | 22/11/21 | [John Osborne - Introduction to the use of material culture](detailed-schedule.md#class-21) |
+| 21 | 24/11/21 | [Peter Coffman - Medieval Architecture](detailed-schedule.md#class-21) |
 | 22 | 29/11/21 | [Reading and Transcribing _The King of Tars_ I](detailed-schedule.md#class-21) |
 | 23 | 1/12/21 | [Reading and Transcribing _The King of Tars_ II](detailed-schedule.md#class-23) |
-| 24 | 6/12/21 | [Lori Jones?](detailed-schedule.md#class-24) |
+| 24 | 6/12/21 | [Lori Jones](detailed-schedule.md#class-24) - Hard Science, DNA and the Black Death |
 | 25 | 8/12/21 | [Print Workshop](detailed-schedule.md#class-25) |
-| 26 | 10/12/21 | Last Day of Classes. Friday follows Monday schedule.  |
+| 26 | 10/12/21 | Last Day of Classes. Debrief/ Process Letters.  |
 
