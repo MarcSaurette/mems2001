@@ -165,21 +165,21 @@ Take a look at [a google folder](https://drive.google.com/drive/folders/1NxCyjwV
 Look through [a digitized version of the Carleton Antiphonary](https://carleton-antiphonary.herokuapp.com), a MA project of a former Carleton student, Kate Brasseur. 
 {% endhint %}
 
-#### Class 19. November 17th. Introduction to Material Culture
+#### Class 19. November 17th. Introduction to Material Culture?
 
-#### Class 20. November 22nd. Introduction to Medieval Architecture
+#### Class 20. November 22nd. Introduction to Medieval Architecture?
 
 #### Class 21. November 24th. 
 
-#### Class 22.
+#### Class 22. November 29th.
 
-#### Class 23. 
+#### Class 23. December 1st. 
 
-#### Class 24.
+#### Class 24. December 6th. 
 
-#### Class 25. 
+#### Class 25. December 8th. Print Workshop.
 
-#### Class 26. 
+#### Class 26. December 10th. Final Debrief. 
 
 
 
