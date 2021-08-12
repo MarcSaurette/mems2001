@@ -61,11 +61,11 @@ Over the course of the term, each students will work on researching a topic of t
 {% endtab %}
 
 {% tab title="Reviewing" %}
-You will offer at some of your fellow students helpful comments on and critiques of their developing work, in order to help them produce a polished final draft of their research. You will use 
+You will offer at some of your fellow students [helpful comments on and critiques of their developing work](research-projects/reviewing.md), in order to help them produce a polished final draft of their research. 
 {% endtab %}
 
 {% tab title="Self-Assessment" %}
-At the end of the first and second terms, students will be asked to write a critical self-evaluation \(_critical_ in the sense of "using logic and evidence to argue"\), describing their learning and how their work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
+At the end of the first and second terms, students will be asked to write a [critical self-evaluation](process-letter.md) \(_critical_ in the sense of "using logic and evidence to argue"\), describing their learning and how their work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
 
 I will post a form on Teams for students to submit, but you may submit a long form written answer \(an argument rather than answers to specific questions\) if you prefer as a word file...
 {% endtab %}

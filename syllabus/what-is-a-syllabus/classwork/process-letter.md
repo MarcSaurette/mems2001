@@ -1,6 +1,6 @@
 # Process Letter
 
-Midway through the course and at the end of the term, students will be asked to write a letters describing their "process"" of learning. They are critical self-evaluations \(_critical_ in the sense of "using logic and evidence to argue"\), describing your learning and how your work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
+Midway through the course and at the end of the term, students will be asked to write a letters/forms describing their "process"" of learning. They are critical self-evaluations \(_critical_ in the sense of "using logic and evidence to argue"\), describing your learning and how your work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
 
 * Link to Mid-Term Self Assessment  \(Due SSSSS, 10am\)
 * Link to End of Term Self Assessment \(Due SSSSSS, 10am\)
