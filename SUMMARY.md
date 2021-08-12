@@ -12,6 +12,7 @@
   * [Communication](syllabus/what-is-a-syllabus/communication/README.md)
     * [Digital Classroom](syllabus/what-is-a-syllabus/communication/digital-classroom.md)
   * [Classwork](syllabus/what-is-a-syllabus/classwork/README.md)
+    * [Process Letter](syllabus/what-is-a-syllabus/classwork/process-letter.md)
     * [Research Topics](syllabus/what-is-a-syllabus/classwork/research-topics.md)
     * [Research Project](syllabus/what-is-a-syllabus/classwork/research-projects/README.md)
       * [Annotated Bibliography](syllabus/what-is-a-syllabus/classwork/research-projects/annotated-bibliography.md)
