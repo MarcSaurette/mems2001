@@ -89,8 +89,7 @@ By classtime on October 6th, you must choose a research topic from the following
 | The Byzantine Empire |
 | Anchorites |
 |  |
-|  |
-| People: |
+| **People:** |
 | Charlemagne |
 | Gregory of Tours |
 | Theodoric the Great |
