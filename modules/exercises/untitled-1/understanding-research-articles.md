@@ -21,5 +21,10 @@ Identify the title, the author\(s\), the journal title and the date of publicati
 
 5. Now ask yourself:
 
+1. Is the author’s argument persuasive? 
+2. Does the evidence support the author’s conclusions? 
+3. Is the article balanced and supported by verifiable facts?
+4. Do you agree or disagree with the content of the article and the arguments used to persuade the reader?
+
 These final questions need some reflection. Think about your ideas and your assessment of the article you have analyzed and come to a conclusion about the article about its usefulness.
 

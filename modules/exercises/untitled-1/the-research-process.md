@@ -1,8 +1,6 @@
 # The Research Process
 
-![](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-MFez_upihv5IdKp-g5h%2F-MFf-JNfnxwsBZWaV27t%2FThe%20Writing%20Process.JPG?alt=media&token=55213418-7799-4837-b156-116d5a9600ab)
-
-How to tackle a big writing project using primary sources.
+![How to tackle a big writing project using primary sources.](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-MFez_upihv5IdKp-g5h%2F-MFf-JNfnxwsBZWaV27t%2FThe%20Writing%20Process.JPG?alt=media&token=55213418-7799-4837-b156-116d5a9600ab)
 
 ## What is the research process followed by historians? <a id="what-is-the-research-process-followed-by-historians"></a>
 
@@ -16,7 +14,7 @@ For a journal involving primary source research, the work process is as follows:
 
 a. New directions can arise from historians thinking about known sources in a new way \(e.g. they look at legal texts which were previously only used to understand political history in order to now understand social structures, gender, and sexuality\). Or research allows people to redefine the value of a source \(i.e. that what seemed like a seventh-century source was actually forged in the 13th century; or a twelfth-century manuscript is actually a faithful copy of a second-century work\).
 
-b. New directions can also arise from new sources. New medieval sources are sometime \(very rarely!\) discovered \(i.e. hidden in the walls of monastery or in a [bricked-over Cairo storeroom](https://cudl.lib.cam.ac.uk/collections/genizah/1)\). In recent years, new texts and art work are coming to light through technical means \(such as [multi-spectral photography](https://www.bbc.com/news/business-44144527) that reveals erased texts\). More often known written sources in libraries/ archives will not have been properly catalogued and so historians might “rediscover” an unknown text in a \(mostly\) well-studied manuscript.
+b. New directions can also arise from new sources. New medieval sources are sometime \(very rarely!\) discovered \(i.e. hidden in the walls of monastery or in a [bricked-over Cairo storeroom](https://cudl.lib.cam.ac.uk/collections/genizah/1)\). In recent years, new texts and art work are coming to light through technical means \(such as [multi-spectral photography](https://www.bbc.com/news/business-44144527) that reveals erased, burned or unopened texts\). More often known written sources in libraries/ archives will not have been properly catalogued and so historians might “rediscover” an unknown text in a \(mostly\) well-studied manuscript.
 
 2. The hunch leads the historian to consult sources – initially secondary sources to see if and what other people have thought and written about the subject. If a body of research exist, secondary sources orient the historian to a subject area, but also represent the first area of historical criticism. We must read other historians critically, so that we are aware of their failings as well as their strengths. Existing secondary sources also provide the historian with hints of what primary sources exist and where they can be consulted.
 

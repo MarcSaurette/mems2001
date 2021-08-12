@@ -4,8 +4,6 @@ A primary source is anything which can be considered evidence for a particular p
 
 Documents rarely “tell their own story”. They require analysis and interpretation by historians – this is your job. Since every document is different and also sheds light on a variety of matters, it will be necessary for you to select one topic that can reasonably discussed given your text\(s\). In a structured argument, your paper should describe accurately the information contained in the document\(s\) and what can be learned from them. Your paper should not simply paraphrase or retell the source text\(s\), but must organize a selection of material into an argument.
 
-
-
 ### Source Schematic
 
 Here is a simple visualization how historians use sources:
