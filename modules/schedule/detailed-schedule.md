@@ -155,5 +155,7 @@ Read and Complete [Anatomy of a Primary Source](../exercises/untitled/), includi
 
 #### Class 25. 
 
+#### Class 26. 
+
 
 

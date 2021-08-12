@@ -1,12 +1,13 @@
 # Process Letter
 
-At the end of first term, students will write process letters, describing their learning and how their work evolved over the term. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
+Midway through the course and at the end of the term, students will be asked to write a letters describing their "process"" of learning. They are critical self-evaluations \(_critical_ in the sense of "using logic and evidence to argue"\), describing your learning and how your work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
 
-I will post a form on Teams which you can fill in. The first question there will ask if you have submitted your process letter in an alternative form. Everyone should at least fill out that question and you can post a file or link to cuLearn if you prefer.
+* Link to Mid-Term Self Assessment  \(Due SSSSS, 10am\)
+* Link to End of Term Self Assessment \(Due SSSSSS, 10am\)
 
 ### What do I need to include? <a id="what-do-i-need-to-include"></a>
 
-The goal is for you to make an argument for the overall grade you will propose for yourself. I provide here guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. The form posted on Teams will ask you similar but not identical questions to those below. I will ask something like:
+The goal is for you to make an argument for the overall grade you will propose for yourself. I provide guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. The form posted on Teams will ask you similar but not identical questions to those below. I will ask something like:
 
 > Based on your work this semester, and taking into consideration the context of Fall 2020, select a letter grade for your work and your learning in this course. Write a narrative that addresses the following major prompts:
 
