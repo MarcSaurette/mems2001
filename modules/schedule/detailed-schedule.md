@@ -129,7 +129,7 @@ This week students will be making short presentations on their research topic.
 
 #### Class 16. Understanding Evidence
 
-This week 
+This week we will begin to think about how to use primary sources for medieval history. 
 
 {% hint style="info" %}
 Read and annotate Marcus Bull, "Evidence for Medieval History", in _Thinking Medieval_ on Perusall. 
