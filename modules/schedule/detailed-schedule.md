@@ -163,6 +163,11 @@ Our goal is to introduce you to seeing medieval texts as material things that co
 Take a look at [a google folder](https://drive.google.com/drive/folders/1NxCyjwV-E9DuIWZRnMHlFUuvimBfR2mM?usp=sharing) with images of the medieval material in our collections. 
 
 Look through [a digitized version of the Carleton Antiphonary](https://carleton-antiphonary.herokuapp.com), a MA project of a former Carleton student, Kate Brasseur. 
+
+View the following videos, prepared by Lloyd Keene
+
+* [https://mediaspace.carleton.ca/media/November+11th%2C+2020/1\_ubi99bep](https://mediaspace.carleton.ca/media/November+11th%2C+2020/1_ubi99bep)
+* [https://mediaspace.carleton.ca/media/November+11th%2C+2020+BONUS+VIDEO%21%21/1\_lyeyv84h](https://mediaspace.carleton.ca/media/November+11th%2C+2020+BONUS+VIDEO%21%21/1_lyeyv84h)
 {% endhint %}
 
 #### Class 19. November 17th. Introduction to Material Culture?
