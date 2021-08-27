@@ -184,11 +184,19 @@ On the 22nd, we will discuss lines 550-798 – the birth of the child of the "Sa
 
 #### Class 21. November 24th. Guest Lectures
 
+Readings TBA
+
 #### Class 22. November 29th. Guest Lectures
+
+Readings TBA
 
 #### Class 23. December 1st. Guest Lectures
 
+Readings TBA
+
 #### Class 24. December 6th. Guest Lectures
+
+Readings TBA
 
 #### Class 25. December 8th. Print Workshop. Book Arts lab demonstration and exercise.
 
