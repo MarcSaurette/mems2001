@@ -170,21 +170,31 @@ View the following videos, prepared by Lloyd Keene
 * [https://mediaspace.carleton.ca/media/November+11th%2C+2020+BONUS+VIDEO%21%21/1\_lyeyv84h](https://mediaspace.carleton.ca/media/November+11th%2C+2020+BONUS+VIDEO%21%21/1_lyeyv84h)
 {% endhint %}
 
-#### Class 19. November 17th. Introduction to Material Culture?
+#### Class 19-20. November 17th & 22nd. Transcribing the King of Tars
 
-#### Class 20. November 22nd. Introduction to Medieval Architecture?
+We will spend two classes trying to read and compare two different manuscripts of the the Middle English Romance, _The King of Tars._ 
 
-#### Class 21. November 24th. 
+{% hint style="info" %}
+In advance, read the [introduction](https://d.lib.rochester.edu/teams/text/chandler-the-king-of-tars-introduction) to the TEAMS online edition of the _King of Tars_
 
-#### Class 22. November 29th.
+During class time, we will work on a [transcription exercise](../exercises/transcription-exercise/), which may take some additional time outside of class. 
 
-#### Class 23. December 1st. 
+On the 22nd, we will discuss lines 550-798 – the birth of the child of the "Saracen" Sultan of Damascus and the Christian daughter of the King of Tars. 
+{% endhint %}
 
-#### Class 24. December 6th. 
+#### Class 21. November 24th. Guest Lectures
 
-#### Class 25. December 8th. Print Workshop.
+#### Class 22. November 29th. Guest Lectures
 
-#### Class 26. December 10th. Final Debrief. 
+#### Class 23. December 1st. Guest Lectures
 
+#### Class 24. December 6th. Guest Lectures
 
+#### Class 25. December 8th. Print Workshop. Book Arts lab demonstration and exercise.
+
+Readings TBA
+
+#### Class 26. December 10th. Final Debrief/ Process letter
+
+In this class, we will revisit our initial discussion about "What are the Middle Ages". We will discuss how your ideas have changed \(or not\) and what you learned. This class will also be an opportunity to think about your performance in class and whether you were able to achieve what you set out to discover. 
 
