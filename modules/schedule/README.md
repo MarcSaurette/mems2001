@@ -22,9 +22,9 @@
 | 18 | 15/11/21 | Introduction to Handwritten Documents |
 | 19 | 17/11/21 | [Reading and Transcribing _The King of Tars_ I](detailed-schedule.md#class-21) |
 | 20 | 22/11/21 | [Reading and Transcribing _The King of Tars_ II](detailed-schedule.md#class-23) |
-| 21 | 24/11/21 | [G](detailed-schedule.md#class-21)uest Lecture: Peter Coffman, Medieval Architecture |
-| 22 | 29/11/21 | Guest Lecture: Micheline White: Literacy, Liturgy and Tudor Queens  |
-| 23 | 1/12/21 | Guest Lecture:  |
+| 21 | 24/11/21 | Guest Lecture: Micheline White: Literacy, Liturgy and Tudor Queens  |
+| 22 | 29/11/21 | [G](detailed-schedule.md#class-21)uest Lecture: Peter Coffman, Medieval Architecture |
+| 23 | 1/12/21 |  |
 | 24 | 6/12/21 | Guest Lecture: Lori Jones: Studying Disease in the Medieval and Early Modern Worlds |
 | 25 | 8/12/21 | [Print Workshop](detailed-schedule.md#class-25) |
 | 26 | 10/12/21 | Last Day of Classes. Debrief/ Process Letters.  |
