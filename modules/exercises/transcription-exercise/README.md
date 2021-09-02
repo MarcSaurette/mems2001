@@ -5,7 +5,7 @@
 {% hint style="info" %}
 This week we will read the Middle English poem, _The_ _King of Tars,_ from two different manuscripts. We will transcribe them [in a group google spreadsheet](https://docs.google.com/spreadsheets/d/1jgdChq68ahqAHc3bNBfd9O3LyZOn-HsBWJyfwyq9SGs/edit?usp=sharing). We will translate the first few lines together as a class, and then I will divide you up into groups to try to tackle a few lines on your own. 
 
-Some letters you might need to use \( I would suggest you copy and paste from here or teach yourself [medieval unicode](untitled.md)\) :
+Some letters you might need to use \( I would suggest you copy and paste from here or teach yourself how to use [medieval unicode](untitled.md)\) :
 
 * Ȝ - Capital Yogh
 * ȝ - lowercase yogh

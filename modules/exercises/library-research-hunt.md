@@ -1,8 +1,6 @@
 # Library Research Hunt
 
-Short Scavenger Hunt for Library Materials
+Working in small groups, you are asked to complete the following "Research Hunt", i.e. an informational scavenger hunt about the library and its resources. 
 
-Work together to start researching Project topic. 
 
-\[link to MS Forms quiz\]
 
