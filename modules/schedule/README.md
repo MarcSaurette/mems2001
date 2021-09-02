@@ -26,6 +26,6 @@
 | 22 | 29/11/21 | [G](detailed-schedule.md#class-21)uest Lecture: Peter Coffman, Medieval Architecture |
 | 23 | 1/12/21 | Guest Lecture: Lori Jones: Studying Disease in the Medieval and Early Modern Worlds |
 | 24 | 6/12/21 | Guest Lecture: Micheline White: Literacy, Liturgy and Tudor Queens  |
-| 25 | 8/12/21 | [B](detailed-schedule.md#class-25)ook Arts Lab Demonstration II |
+| 25 | 8/12/21 | [B](detailed-schedule.md#class-25)ook Arts Lab Demonstration |
 | 26 | 10/12/21 | Last Day of Classes. Debrief/ Process Letters.  |
 
