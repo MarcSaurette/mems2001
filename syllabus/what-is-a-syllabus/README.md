@@ -1,4 +1,4 @@
-# a Syllabus
+# Syllabus
 
 Professors use a _syllabus_ to provide an overview of the course, to offer a quick reference guide for key information and to lay out key regulations that students need to be aware of. "[Syllabus](https://www.oed.com/view/Entry/196148)", as the _Oxford English Dictionary_ indicates, was first used to describe university teaching plans in 1889. Nineteenth-century academics always liked to use a bit of Latin/Greek to make their work seem difficult and daunting to the uninitiated. We will try to do the opposite in this class, but we don't always succeed. Please let us know when and where something needs to be more fully explained.
 
