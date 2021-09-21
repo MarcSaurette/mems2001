@@ -25,7 +25,6 @@
 * [Digital Tools](syllabus/digital-tools/README.md)
   * [MS Teams](syllabus/digital-tools/ms-teams/README.md)
     * [\(really\) Short Guide to MS Teams](syllabus/digital-tools/ms-teams/really-short-guide-to-ms-teams.md)
-    * [Streaming Lectures](syllabus/digital-tools/ms-teams/streaming-lectures.md)
   * [Perusall](syllabus/digital-tools/perusall/README.md)
     * [Social Annotation](syllabus/digital-tools/perusall/untitled.md)
   * [Hypothes.is](syllabus/digital-tools/hypothes.is.md)
