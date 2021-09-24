@@ -69,7 +69,7 @@ Being able to distinguish the past from historical longing or imaginative nostal
 {% hint style="info" %}
 **Class 6**. Read and comment on Marcus Bull's _Thinking Medieval,_ chapter 4 \(on relevance\) on Perusall. 
 
-**Class 7**. Read and comment on Kaufmann and Sturtevant's _The Devil's Historians_ chapter on the clash of civilization. Their goal is to hightlight the utility of studying history as innoculation against facile jingoism. In your comments try to address this topic. 
+**Class 7**. Read and comment on Kaufmann and Sturtevant's _The Devil's Historians_ chapter on the concept of "clash of civilizations". Their goal is to hightlight the utility of studying history as innoculation against facile jingoism. In your comments try to address this topic. 
 {% endhint %}
 
 #### Class. 8 - October 4th. How to read for class.
