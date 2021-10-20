@@ -1,11 +1,11 @@
 # Process Letter
 
-Midway through the course and at the end of the term, students will be asked to write a letters/forms describing their "process"" of learning. They are critical self-evaluations \(_critical_ in the sense of "using logic and evidence to argue"\), describing your learning and how your work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
+Midway through the course and at the end of the term, students will be asked to write a letters/forms describing their "process"" of learning. They are critical self-evaluations (_critical_ in the sense of "using logic and evidence to argue"), describing your learning and how your work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative (even work that you don't otherwise turn in).
 
-* Link to Mid-Term Self Assessment  \(Due November 5th, 10am\)
-* Link to End of Term Self Assessment \(Due December 10th, 10am\)
+* [Link to Mid-Term Self Assessment](https://forms.office.com/r/1Eavv9FTFR)  (Due November 5th, 10am)
+* Link to End of Term Self Assessment (Due December 10th, 10am)
 
-### What do I need to include? <a id="what-do-i-need-to-include"></a>
+### What do I need to include? <a href="what-do-i-need-to-include" id="what-do-i-need-to-include"></a>
 
 The goal is for you to make an argument for the overall grade you will propose for yourself. I provide guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. The form posted on Teams will ask you similar but not identical questions to those below. I will ask something like:
 
@@ -19,7 +19,7 @@ The goal is for you to make an argument for the overall grade you will propose f
 You might also be asked more detailed feedback such as:
 
 1. Outside of class time, how much time did you spend on the class each week?
-2. Describe how you spent this time and offer, if possible, a breakdown of time spent on different activities \(i.e. socializing/texting, plotting, researching, reading, writing\).
+2. Describe how you spent this time and offer, if possible, a breakdown of time spent on different activities (i.e. socializing/texting, plotting, researching, reading, writing).
 3. What are you really proud of doing or getting accomplished in class? Why?
 4. What is the one thing that you would like to change about how you performed in class? Why?
 5. Consider what you did in the class compared to what you thought you would be doing when we began in September. What do you see as the most important thing about early medieval society that you learned in class?
@@ -38,4 +38,3 @@ Some of the things that are being important for a successful group effort are as
 * Helping each other
 * Meeting outside of class to strategize and prepare
 * Being organized
-
