@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MEMS 2001 \(Fall 2021\)](README.md)
+* [MEMS 2001 (Fall 2021)](README.md)
 * [How to login to class](how-to-get-online-for-class.md)
 
 ## Syllabus
@@ -12,6 +12,7 @@
   * [Communication](syllabus/what-is-a-syllabus/communication/README.md)
     * [Digital Classroom](syllabus/what-is-a-syllabus/communication/digital-classroom.md)
   * [Classwork](syllabus/what-is-a-syllabus/classwork/README.md)
+    * [Participation](syllabus/what-is-a-syllabus/classwork/participation.md)
     * [Process Letter](syllabus/what-is-a-syllabus/classwork/process-letter.md)
     * [Research Topics](syllabus/what-is-a-syllabus/classwork/research-topics.md)
     * [Research Project](syllabus/what-is-a-syllabus/classwork/research-projects/README.md)
@@ -24,7 +25,7 @@
   * [Assessment](syllabus/what-is-a-syllabus/assessment.md)
 * [Digital Tools](syllabus/digital-tools/README.md)
   * [MS Teams](syllabus/digital-tools/ms-teams/README.md)
-    * [\(really\) Short Guide to MS Teams](syllabus/digital-tools/ms-teams/really-short-guide-to-ms-teams.md)
+    * [(really) Short Guide to MS Teams](syllabus/digital-tools/ms-teams/really-short-guide-to-ms-teams.md)
   * [Perusall](syllabus/digital-tools/perusall/README.md)
     * [Social Annotation](syllabus/digital-tools/perusall/untitled.md)
   * [Hypothes.is](syllabus/digital-tools/hypothes.is.md)
@@ -49,4 +50,3 @@
     * [Charter Translation Exercise](modules/exercises/untitled/charter-translation-exercise.md)
   * [Transcription Exercise](modules/exercises/transcription-exercise/README.md)
     * [Installing Medieval Unicode](modules/exercises/transcription-exercise/untitled.md)
-
